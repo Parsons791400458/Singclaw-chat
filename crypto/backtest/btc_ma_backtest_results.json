@@ -1,0 +1,10 @@
+{
+  "symbol": "BTC",
+  "initial_cash": 100000,
+  "final_value": 100000.0,
+  "pnl": 0.0,
+  "pnl_percentage": 0.0,
+  "trades": 0,
+  "sma_fast": 20,
+  "sma_slow": 50
+}

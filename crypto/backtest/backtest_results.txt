@@ -1,0 +1,13 @@
+=== BACKTEST RESULTS ===
+Initial Cash: 2036274.65
+Final Cash: 2036274.65
+Total Return: -93.18%
+Sharpe Ratio: -0.5196412767186431
+Max Drawdown: 19517.69%
+Total Trades: 2
+Total PnL: -33.30
+
+=== PERFORMANCE SUMMARY ===
+Win Rate: 0/2
+Avg Win: 0.00
+Avg Loss: -33.30

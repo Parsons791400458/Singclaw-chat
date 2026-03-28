@@ -1,0 +1,1858 @@
+✅ 巡检完成，笔记已写入知识库 (ID: 1904532812096346400)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904548286864462104)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904563736933994776)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904579197742014272)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904594660698626336)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904610122580788064)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904625583390464288)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904641046344822112)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904656508228099048)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904671970109353312)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904687431991581672)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904702893874933088)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904718354682408288)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904733816565718552)
+✅ 巡检完成，笔记已写入知识库 (ID: 1904749281668161048)
+
+============================================================
+🤖 智能巡检 - 2026-03-20 04:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,247.00 (-1.4%) RSI=47 SIDE
+  ETH: $2,140.10 (-2.8%) RSI=38 SIDE
+  SOL: $88.67 (-1.9%) RSI=40 SIDE
+  ATOM: $1.84 (-2.3%) RSI=26 SIDE
+  AVAX: $9.50 (-2.2%) RSI=42 SIDE
+  ARB: $0.10 (-3.9%) RSI=31 SIDE
+  DOGE: $0.09 (-2.1%) RSI=41 SIDE
+  SUI: $0.95 (-3.3%) RSI=39 SIDE
+  LINK: $9.03 (-2.0%) RSI=38 SIDE
+  OP: $0.12 (-4.8%) RSI=30 SIDE
+
+💰 账户状态...
+  小夏: $299.02 PnL=$+1.19 持仓=1
+  ClawFi: $109.37 PnL=$+0.55 持仓=3
+
+🎯 交易信号...
+  小夏 ATOM: LONG - RSI严重超卖(26) | 超卖反弹信号
+  ClawFi ATOM: LONG - RSI严重超卖(26) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 ATOM LONG 24.3225
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ATOM LONG 7.1172
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904764747845393944
+
+============================================================
+摘要: 净值=$408.39 PnL=$+1.75 操作=2笔
+============================================================
+
+ERROR:websocket:Connection to remote host was lost. - goodbye
+ERROR:websocket:Connection to remote host was lost. - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-20 08:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $69,920.00 (-1.6%) RSI=48 DOWN
+  ETH: $2,136.90 (-2.5%) RSI=31 DOWN
+  SOL: $88.85 (-1.3%) RSI=38 SIDE
+  ATOM: $1.81 (-4.6%) RSI=26 DOWN
+  AVAX: $9.47 (-2.0%) RSI=42 DOWN
+  ARB: $0.10 (-3.1%) RSI=34 SIDE
+  DOGE: $0.09 (-1.4%) RSI=44 SIDE
+  SUI: $0.96 (-2.4%) RSI=43 SIDE
+  LINK: $9.04 (-1.8%) RSI=39 SIDE
+  OP: $0.12 (-3.3%) RSI=37 SIDE
+
+💰 账户状态...
+  小夏: $298.86 PnL=$+1.04 持仓=1
+  ClawFi: $109.32 PnL=$+0.50 持仓=3
+
+🎯 交易信号...
+  小夏 ATOM: LONG - RSI严重超卖(26) | 超卖反弹信号
+  ClawFi ATOM: LONG - RSI严重超卖(26) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 ATOM LONG 24.7701
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ATOM LONG 7.2487
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904780217243828856
+
+============================================================
+摘要: 净值=$408.18 PnL=$+1.54 操作=2笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-20 12:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,716.00 (-0.1%) RSI=74 UP
+  ETH: $2,150.40 (-1.7%) RSI=68 SIDE
+  SOL: $89.53 (-0.4%) RSI=64 UP
+  ATOM: $1.80 (-5.1%) RSI=30 DOWN
+  AVAX: $9.56 (-0.5%) RSI=66 UP
+  ARB: $0.10 (-2.1%) RSI=60 SIDE
+  DOGE: $0.09 (-0.4%) RSI=63 UP
+  SUI: $0.97 (-1.6%) RSI=65 UP
+  LINK: $9.12 (-0.7%) RSI=67 UP
+  OP: $0.12 (-1.8%) RSI=66 UP
+
+💰 账户状态...
+  小夏: $299.43 PnL=$+1.61 持仓=1
+  ClawFi: $109.72 PnL=$+0.90 持仓=3
+
+🎯 交易信号...
+  小夏 BTC: SHORT - RSI严重超买(74) | 超买回调信号
+  ClawFi BTC: SHORT - RSI严重超买(74) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 BTC SHORT 0.0006
+     原因: RSI严重超买(74) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi BTC SHORT 0.0002
+     原因: RSI严重超买(74) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904795672684715544
+
+============================================================
+摘要: 净值=$409.14 PnL=$+2.51 操作=2笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-20 16:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,830.00 (+0.5%) RSI=69 UP
+  ETH: $2,150.00 (-1.7%) RSI=64 UP
+  SOL: $89.31 (-0.9%) RSI=68 UP
+  ATOM: $1.83 (-2.1%) RSI=46 SIDE
+  AVAX: $9.53 (+0.2%) RSI=61 SIDE
+  ARB: $0.10 (+0.2%) RSI=71 UP
+  DOGE: $0.09 (-0.1%) RSI=66 SIDE
+  SUI: $0.97 (+1.6%) RSI=81 UP
+  LINK: $9.11 (-0.5%) RSI=67 UP
+  OP: $0.12 (+0.6%) RSI=82 UP
+
+💰 账户状态...
+  小夏: $299.32 PnL=$+1.52 持仓=2
+  ClawFi: $109.66 PnL=$+0.82 持仓=2
+
+🎯 交易信号...
+  小夏 SUI: SHORT - RSI严重超买(81) | 超买回调信号
+  ClawFi SUI: SHORT - RSI严重超买(81) | 超买回调信号
+  小夏 OP: SHORT - RSI严重超买(82) | 超买回调信号
+  ClawFi OP: SHORT - RSI严重超买(82) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 SUI SHORT 46.065
+     原因: RSI严重超买(81) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi SUI SHORT 13.5017
+     原因: RSI严重超买(81) | 超买回调信号
+     ✅ 成功
+  📤 小夏 OP SHORT 362.4255
+     原因: RSI严重超买(82) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi OP SHORT 106.2275
+     原因: RSI严重超买(82) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904811142082731096
+
+============================================================
+摘要: 净值=$408.98 PnL=$+2.34 操作=4笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-20 20:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,445.00 (+0.8%) RSI=55 SIDE
+  ETH: $2,140.70 (+0.2%) RSI=51 SIDE
+  SOL: $89.08 (+0.7%) RSI=55 SIDE
+  ATOM: $1.81 (-1.1%) RSI=40 DOWN
+  AVAX: $9.51 (+0.8%) RSI=50 SIDE
+  ARB: $0.10 (+1.5%) RSI=66 SIDE
+  DOGE: $0.09 (+1.7%) RSI=55 SIDE
+  SUI: $0.97 (+2.5%) RSI=63 SIDE
+  LINK: $9.08 (+1.5%) RSI=50 SIDE
+  OP: $0.12 (+3.2%) RSI=81 UP
+
+💰 账户状态...
+  小夏: $299.14 PnL=$+1.35 持仓=2
+  ClawFi: $109.55 PnL=$+0.71 持仓=2
+
+🎯 交易信号...
+  小夏 OP: SHORT - RSI严重超买(81) | 超买回调信号
+  ClawFi OP: SHORT - RSI严重超买(81) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 OP SHORT 359.8938
+     原因: RSI严重超买(81) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi OP SHORT 105.4383
+     原因: RSI严重超买(81) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904826595375485544
+
+============================================================
+摘要: 净值=$408.69 PnL=$+2.05 操作=2笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-21 00:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $69,829.00 (+0.0%) RSI=39 DOWN
+  ETH: $2,132.90 (+0.3%) RSI=45 DOWN
+  SOL: $88.89 (+0.9%) RSI=44 DOWN
+  ATOM: $1.80 (-2.4%) RSI=43 DOWN
+  AVAX: $9.48 (+0.2%) RSI=42 DOWN
+  ARB: $0.10 (+1.5%) RSI=42 SIDE
+  DOGE: $0.09 (+2.0%) RSI=50 UP
+  SUI: $0.96 (+1.9%) RSI=46 SIDE
+  LINK: $9.02 (+1.0%) RSI=37 DOWN
+  OP: $0.12 (+3.0%) RSI=53 SIDE
+
+💰 账户状态...
+  小夏: $299.20 PnL=$+1.40 持仓=2
+  ClawFi: $109.46 PnL=$+0.62 持仓=2
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904842051887832776
+
+============================================================
+摘要: 净值=$408.66 PnL=$+2.02 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-21 04:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,138.00 (-0.4%) RSI=44 SIDE
+  ETH: $2,132.00 (-0.8%) RSI=48 SIDE
+  SOL: $88.94 (-0.2%) RSI=49 SIDE
+  ATOM: $1.82 (-1.4%) RSI=43 SIDE
+  AVAX: $9.52 (+0.1%) RSI=52 SIDE
+  ARB: $0.10 (+0.2%) RSI=32 DOWN
+  DOGE: $0.09 (+0.1%) RSI=42 DOWN
+  SUI: $0.96 (+0.1%) RSI=27 DOWN
+  LINK: $9.04 (-0.2%) RSI=41 SIDE
+  OP: $0.12 (+2.4%) RSI=42 SIDE
+
+💰 账户状态...
+  小夏: $298.96 PnL=$+1.16 持仓=2
+  ClawFi: $109.47 PnL=$+0.62 持仓=2
+
+🎯 交易信号...
+  小夏 SUI: LONG - RSI严重超卖(27) | 超卖反弹信号
+  ClawFi SUI: LONG - RSI严重超卖(27) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 SUI LONG 46.8446
+     原因: RSI严重超卖(27) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi SUI LONG 13.7223
+     原因: RSI严重超卖(27) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904857520212549320
+
+============================================================
+摘要: 净值=$408.43 PnL=$+1.78 操作=2笔
+============================================================
+
+ERROR:websocket:Connection to remote host was lost. - goodbye
+ERROR:websocket:Connection to remote host was lost. - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-21 08:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,475.00 (+0.1%) RSI=48 SIDE
+  ETH: $2,145.30 (-0.2%) RSI=49 SIDE
+  SOL: $89.79 (+0.5%) RSI=64 UP
+  ATOM: $1.83 (+1.6%) RSI=60 UP
+  AVAX: $9.57 (+0.6%) RSI=56 UP
+  ARB: $0.10 (+0.1%) RSI=43 SIDE
+  DOGE: $0.09 (+0.3%) RSI=53 SIDE
+  SUI: $0.97 (+0.6%) RSI=47 SIDE
+  LINK: $9.11 (+0.4%) RSI=52 SIDE
+  OP: $0.12 (+1.5%) RSI=41 SIDE
+
+💰 账户状态...
+  小夏: $299.33 PnL=$+1.53 持仓=2
+  ClawFi: $109.75 PnL=$+0.90 持仓=2
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904872975652982760
+
+============================================================
+摘要: 净值=$409.08 PnL=$+2.43 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-21 12:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,636.00 (+0.1%) RSI=67 UP
+  ETH: $2,152.30 (+0.6%) RSI=64 UP
+  SOL: $90.41 (+1.3%) RSI=75 UP
+  ATOM: $1.84 (+1.6%) RSI=71 UP
+  AVAX: $9.58 (+0.1%) RSI=70 UP
+  ARB: $0.10 (-1.0%) RSI=50 DOWN
+  DOGE: $0.09 (+0.1%) RSI=68 UP
+  SUI: $0.97 (-1.0%) RSI=59 SIDE
+  LINK: $9.13 (+0.0%) RSI=65 UP
+  OP: $0.12 (-0.4%) RSI=44 DOWN
+
+💰 账户状态...
+  小夏: $299.54 PnL=$+1.74 持仓=2
+  ClawFi: $109.93 PnL=$+1.09 持仓=2
+
+🎯 交易信号...
+  小夏 SOL: SHORT - RSI严重超买(75) | 超买回调信号
+  ClawFi SOL: SHORT - RSI严重超买(75) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 SOL SHORT 0.497
+     原因: RSI严重超买(75) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi SOL SHORT 0.1459
+     原因: RSI严重超买(75) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904888442903474016
+
+============================================================
+摘要: 净值=$409.47 PnL=$+2.83 操作=2笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-21 16:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,689.00 (+0.2%) RSI=69 UP
+  ETH: $2,154.40 (-0.4%) RSI=62 UP
+  SOL: $90.08 (+1.3%) RSI=72 SIDE
+  ATOM: $1.85 (+1.7%) RSI=71 UP
+  AVAX: $9.59 (+0.2%) RSI=63 UP
+  ARB: $0.10 (-1.1%) RSI=46 DOWN
+  DOGE: $0.09 (-0.2%) RSI=56 SIDE
+  SUI: $0.96 (-1.1%) RSI=51 SIDE
+  LINK: $9.12 (-0.3%) RSI=62 UP
+  OP: $0.12 (-2.0%) RSI=45 DOWN
+
+💰 账户状态...
+  小夏: $299.59 PnL=$+1.79 持仓=2
+  ClawFi: $109.87 PnL=$+1.03 持仓=2
+
+🎯 交易信号...
+  小夏 SOL: SHORT - RSI严重超买(72) | 超买回调信号
+  ClawFi SOL: SHORT - RSI严重超买(72) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 SOL SHORT 0.4989
+     原因: RSI严重超买(72) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi SOL SHORT 0.1464
+     原因: RSI严重超买(72) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904903908006965088
+
+============================================================
+摘要: 净值=$409.47 PnL=$+2.82 操作=2笔
+============================================================
+
+ERROR:websocket:Connection to remote host was lost. - goodbye
+ERROR:websocket:Connection to remote host was lost. - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-21 20:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,610.00 (+1.1%) RSI=45 SIDE
+  ETH: $2,156.40 (+1.4%) RSI=53 UP
+  SOL: $89.91 (+0.9%) RSI=56 SIDE
+  ATOM: $1.84 (+2.1%) RSI=59 SIDE
+  AVAX: $9.50 (+0.6%) RSI=36 SIDE
+  ARB: $0.10 (-0.3%) RSI=37 DOWN
+  DOGE: $0.09 (+0.7%) RSI=43 SIDE
+  SUI: $0.96 (-0.5%) RSI=41 SIDE
+  LINK: $9.10 (+0.3%) RSI=51 SIDE
+  OP: $0.12 (-2.6%) RSI=26 DOWN
+
+💰 账户状态...
+  小夏: $299.72 PnL=$+1.92 持仓=2
+  ClawFi: $109.84 PnL=$+1.00 持仓=2
+
+🎯 交易信号...
+  小夏 OP: LONG - RSI严重超卖(26) | 超卖反弹信号
+  ClawFi OP: LONG - RSI严重超卖(26) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 OP LONG 369.8685
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi OP LONG 108.4413
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904919367741611720
+
+============================================================
+摘要: 净值=$409.56 PnL=$+2.91 操作=2笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-22 00:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,593.00 (+0.9%) RSI=43 SIDE
+  ETH: $2,154.20 (+0.9%) RSI=50 SIDE
+  SOL: $89.76 (+1.0%) RSI=49 SIDE
+  ATOM: $1.85 (+2.9%) RSI=53 UP
+  AVAX: $9.54 (+0.6%) RSI=49 SIDE
+  ARB: $0.10 (+0.7%) RSI=64 SIDE
+  DOGE: $0.09 (+0.7%) RSI=48 SIDE
+  SUI: $0.97 (+0.4%) RSI=54 SIDE
+  LINK: $9.11 (+0.8%) RSI=46 UP
+  OP: $0.12 (+0.6%) RSI=57 SIDE
+
+💰 账户状态...
+  小夏: $299.64 PnL=$+1.84 持仓=2
+  ClawFi: $109.80 PnL=$+0.95 持仓=2
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904934822108868448
+
+============================================================
+摘要: 净值=$409.44 PnL=$+2.79 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-22 04:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,358.00 (-0.2%) RSI=30 DOWN
+  ETH: $2,151.10 (+0.2%) RSI=46 SIDE
+  SOL: $89.74 (+0.2%) RSI=40 SIDE
+  ATOM: $1.83 (+0.9%) RSI=46 DOWN
+  AVAX: $9.49 (-0.9%) RSI=27 DOWN
+  ARB: $0.10 (-0.3%) RSI=47 SIDE
+  DOGE: $0.09 (-0.1%) RSI=40 DOWN
+  SUI: $0.96 (-0.4%) RSI=39 SIDE
+  LINK: $9.07 (-0.3%) RSI=36 DOWN
+  OP: $0.12 (-1.7%) RSI=44 DOWN
+
+💰 账户状态...
+  小夏: $299.66 PnL=$+1.86 持仓=2
+  ClawFi: $109.77 PnL=$+0.93 持仓=2
+
+🎯 交易信号...
+  小夏 AVAX: LONG - RSI严重超卖(27) | 超卖反弹信号
+  ClawFi AVAX: LONG - RSI严重超卖(27) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 AVAX LONG 4.7363
+     原因: RSI严重超卖(27) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi AVAX LONG 1.3881
+     原因: RSI严重超卖(27) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904950290432557840
+
+============================================================
+摘要: 净值=$409.43 PnL=$+2.78 操作=2笔
+============================================================
+
+ERROR:websocket:Connection to remote host was lost. - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-22 08:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $68,874.00 (-2.5%) RSI=13 DOWN
+  ETH: $2,083.10 (-3.2%) RSI=15 DOWN
+  SOL: $87.52 (-2.7%) RSI=21 DOWN
+  ATOM: $1.79 (-2.5%) RSI=21 DOWN
+  AVAX: $9.21 (-3.7%) RSI=18 DOWN
+  ARB: $0.10 (-3.7%) RSI=26 DOWN
+  DOGE: $0.09 (-3.2%) RSI=23 DOWN
+  SUI: $0.93 (-3.7%) RSI=19 DOWN
+  LINK: $8.83 (-3.4%) RSI=18 DOWN
+  OP: $0.12 (-4.9%) RSI=29 DOWN
+
+💰 账户状态...
+  小夏: $297.67 PnL=$-0.14 持仓=2
+  ClawFi: $108.84 PnL=$-0.01 持仓=2
+
+🎯 交易信号...
+  小夏 BTC: LONG - RSI严重超卖(13) | 超卖反弹信号
+  ClawFi BTC: LONG - RSI严重超卖(13) | 超卖反弹信号
+  小夏 ETH: LONG - RSI严重超卖(15) | 超卖反弹信号
+  ClawFi ETH: LONG - RSI严重超卖(15) | 超卖反弹信号
+  小夏 SOL: LONG - RSI严重超卖(21) | 超卖反弹信号
+  ClawFi SOL: LONG - RSI严重超卖(21) | 超卖反弹信号
+  小夏 ATOM: LONG - RSI严重超卖(21) | 超卖反弹信号
+  ClawFi ATOM: LONG - RSI严重超卖(21) | 超卖反弹信号
+  小夏 AVAX: LONG - RSI严重超卖(18) | 超卖反弹信号
+  ClawFi AVAX: LONG - RSI严重超卖(18) | 超卖反弹信号
+  小夏 ARB: LONG - RSI严重超卖(26) | 超卖反弹信号
+  ClawFi ARB: LONG - RSI严重超卖(26) | 超卖反弹信号
+  小夏 DOGE: LONG - RSI严重超卖(23) | 超卖反弹信号
+  ClawFi DOGE: LONG - RSI严重超卖(23) | 超卖反弹信号
+  小夏 SUI: LONG - RSI严重超卖(19) | 超卖反弹信号
+  ClawFi SUI: LONG - RSI严重超卖(19) | 超卖反弹信号
+  小夏 LINK: LONG - RSI严重超卖(18) | 超卖反弹信号
+  ClawFi LINK: LONG - RSI严重超卖(18) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 BTC LONG 0.0006
+     原因: RSI严重超卖(13) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi BTC LONG 0.0002
+     原因: RSI严重超卖(13) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ETH LONG 0.0214
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ETH LONG 0.0063
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 SOL LONG 0.5102
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi SOL LONG 0.1492
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ATOM LONG 24.9483
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ATOM LONG 7.2978
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 AVAX LONG 4.8497
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi AVAX LONG 1.4186
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ARB LONG 463.9431
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ARB LONG 135.7118
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 DOGE LONG 488.9441
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi DOGE LONG 143.025
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 SUI LONG 47.9107
+     原因: RSI严重超卖(19) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi SUI LONG 14.0147
+     原因: RSI严重超卖(19) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 LINK LONG 5.0592
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi LINK LONG 1.4799
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904965813518045160
+
+============================================================
+摘要: 净值=$406.51 PnL=$-0.14 操作=18笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-22 12:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $69,299.00 (-1.9%) RSI=24 SIDE
+  ETH: $2,112.80 (-1.8%) RSI=34 SIDE
+  SOL: $88.59 (-1.5%) RSI=40 SIDE
+  ATOM: $1.78 (-3.0%) RSI=20 DOWN
+  AVAX: $9.27 (-3.2%) RSI=32 DOWN
+  ARB: $0.10 (-3.4%) RSI=30 DOWN
+  DOGE: $0.09 (-2.4%) RSI=38 DOWN
+  SUI: $0.94 (-2.7%) RSI=29 DOWN
+  LINK: $8.90 (-2.2%) RSI=32 DOWN
+  OP: $0.12 (-2.9%) RSI=38 DOWN
+
+💰 账户状态...
+  小夏: $299.72 PnL=$+0.78 持仓=1
+  ClawFi: $109.61 PnL=$+0.77 持仓=3
+
+🎯 交易信号...
+  小夏 BTC: LONG - RSI严重超卖(24) | 超卖反弹信号
+  ClawFi BTC: LONG - RSI严重超卖(24) | 超卖反弹信号
+  小夏 ATOM: LONG - RSI严重超卖(20) | 超卖反弹信号
+  ClawFi ATOM: LONG - RSI严重超卖(20) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 BTC LONG 0.0006
+     原因: RSI严重超卖(24) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi BTC LONG 0.0002
+     原因: RSI严重超卖(24) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ATOM LONG 25.202
+     原因: RSI严重超卖(20) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ATOM LONG 7.3731
+     原因: RSI严重超卖(20) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904981221713806096
+
+============================================================
+摘要: 净值=$409.33 PnL=$+1.55 操作=4笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-22 16:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $68,864.00 (-2.5%) RSI=20 DOWN
+  ETH: $2,092.80 (-3.0%) RSI=29 DOWN
+  SOL: $87.65 (-2.8%) RSI=33 DOWN
+  ATOM: $1.78 (-4.2%) RSI=23 DOWN
+  AVAX: $9.19 (-3.9%) RSI=23 DOWN
+  ARB: $0.09 (-5.0%) RSI=14 DOWN
+  DOGE: $0.09 (-3.2%) RSI=26 DOWN
+  SUI: $0.93 (-3.7%) RSI=22 DOWN
+  LINK: $8.84 (-3.3%) RSI=28 DOWN
+  OP: $0.12 (-4.8%) RSI=24 DOWN
+
+💰 账户状态...
+  小夏: $298.18 PnL=$-0.75 持仓=2
+  ClawFi: $108.97 PnL=$+0.13 持仓=3
+
+🎯 交易信号...
+  小夏 BTC: LONG - RSI严重超卖(20) | 超卖反弹信号
+  ClawFi BTC: LONG - RSI严重超卖(20) | 超卖反弹信号
+  小夏 ATOM: LONG - RSI严重超卖(23) | 超卖反弹信号
+  ClawFi ATOM: LONG - RSI严重超卖(23) | 超卖反弹信号
+  小夏 AVAX: LONG - RSI严重超卖(23) | 超卖反弹信号
+  ClawFi AVAX: LONG - RSI严重超卖(23) | 超卖反弹信号
+  小夏 ARB: LONG - RSI严重超卖(14) | 超卖反弹信号
+  ClawFi ARB: LONG - RSI严重超卖(14) | 超卖反弹信号
+  小夏 DOGE: LONG - RSI严重超卖(26) | 超卖反弹信号
+  ClawFi DOGE: LONG - RSI严重超卖(26) | 超卖反弹信号
+  小夏 SUI: LONG - RSI严重超卖(22) | 超卖反弹信号
+  ClawFi SUI: LONG - RSI严重超卖(22) | 超卖反弹信号
+  小夏 OP: LONG - RSI严重超卖(24) | 超卖反弹信号
+  ClawFi OP: LONG - RSI严重超卖(24) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 BTC LONG 0.0006
+     原因: RSI严重超卖(20) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi BTC LONG 0.0002
+     原因: RSI严重超卖(20) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ATOM LONG 25.1785
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ATOM LONG 7.361
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 AVAX LONG 4.866
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi AVAX LONG 1.4226
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ARB LONG 471.2575
+     原因: RSI严重超卖(14) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ARB LONG 137.7743
+     原因: RSI严重超卖(14) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 DOGE LONG 489.9447
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi DOGE LONG 143.2376
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 SUI LONG 48.149
+     原因: RSI严重超卖(22) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi SUI LONG 14.0766
+     原因: RSI严重超卖(22) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 OP LONG 382.4132
+     原因: RSI严重超卖(24) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi OP LONG 111.8003
+     原因: RSI严重超卖(24) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1904996712589565640
+
+============================================================
+摘要: 净值=$407.15 PnL=$-0.62 操作=14笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-22 20:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $68,172.00 (-3.6%) RSI=15 DOWN
+  ETH: $2,068.70 (-4.0%) RSI=23 DOWN
+  SOL: $86.78 (-3.7%) RSI=26 DOWN
+  ATOM: $1.77 (-3.6%) RSI=28 DOWN
+  AVAX: $9.06 (-4.7%) RSI=15 DOWN
+  ARB: $0.09 (-5.8%) RSI=10 DOWN
+  DOGE: $0.09 (-3.1%) RSI=24 DOWN
+  SUI: $0.92 (-4.4%) RSI=15 DOWN
+  LINK: $8.76 (-3.8%) RSI=19 DOWN
+  OP: $0.12 (-5.0%) RSI=18 DOWN
+
+💰 账户状态...
+  小夏: $295.80 PnL=$-3.12 持仓=2
+  ClawFi: $108.05 PnL=$-0.79 持仓=3
+
+🎯 交易信号...
+  小夏 BTC: LONG - RSI严重超卖(15) | 超卖反弹信号
+  ClawFi BTC: LONG - RSI严重超卖(15) | 超卖反弹信号
+  小夏 ETH: LONG - RSI严重超卖(23) | 超卖反弹信号
+  ClawFi ETH: LONG - RSI严重超卖(23) | 超卖反弹信号
+  小夏 SOL: LONG - RSI严重超卖(26) | 超卖反弹信号
+  ClawFi SOL: LONG - RSI严重超卖(26) | 超卖反弹信号
+  小夏 ATOM: LONG - RSI严重超卖(28) | 超卖反弹信号
+  ClawFi ATOM: LONG - RSI严重超卖(28) | 超卖反弹信号
+  小夏 AVAX: LONG - RSI严重超卖(15) | 超卖反弹信号
+  ClawFi AVAX: LONG - RSI严重超卖(15) | 超卖反弹信号
+  小夏 ARB: LONG - RSI严重超卖(10) | 超卖反弹信号
+  ClawFi ARB: LONG - RSI严重超卖(10) | 超卖反弹信号
+  小夏 DOGE: LONG - RSI严重超卖(24) | 超卖反弹信号
+  ClawFi DOGE: LONG - RSI严重超卖(24) | 超卖反弹信号
+  小夏 SUI: LONG - RSI严重超卖(15) | 超卖反弹信号
+  ClawFi SUI: LONG - RSI严重超卖(15) | 超卖反弹信号
+  小夏 LINK: LONG - RSI严重超卖(19) | 超卖反弹信号
+  ClawFi LINK: LONG - RSI严重超卖(19) | 超卖反弹信号
+  小夏 OP: LONG - RSI严重超卖(18) | 超卖反弹信号
+  ClawFi OP: LONG - RSI严重超卖(18) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 BTC LONG 0.0007
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi BTC LONG 0.0002
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ETH LONG 0.0214
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ETH LONG 0.0063
+     原因: RSI严重超卖(23) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 SOL LONG 0.5113
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi SOL LONG 0.1494
+     原因: RSI严重超卖(26) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ATOM LONG 25.0609
+     原因: RSI严重超卖(28) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ATOM LONG 7.3234
+     原因: RSI严重超卖(28) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 AVAX LONG 4.9
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi AVAX LONG 1.4319
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ARB LONG 474.397
+     原因: RSI严重超卖(10) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ARB LONG 138.6297
+     原因: RSI严重超卖(10) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 DOGE LONG 487.2865
+     原因: RSI严重超卖(24) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi DOGE LONG 142.3963
+     原因: RSI严重超卖(24) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 SUI LONG 48.3174
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi SUI LONG 14.1195
+     原因: RSI严重超卖(15) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 LINK LONG 5.0672
+     原因: RSI严重超卖(19) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi LINK LONG 1.4808
+     原因: RSI严重超卖(19) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 OP LONG 384.3253
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi OP LONG 112.3087
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905012192723480416
+
+============================================================
+摘要: 净值=$403.85 PnL=$-3.91 操作=20笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-23 00:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $68,806.00 (-2.1%) RSI=39 SIDE
+  ETH: $2,081.70 (-3.1%) RSI=39 SIDE
+  SOL: $87.53 (-2.2%) RSI=43 SIDE
+  ATOM: $1.79 (-2.8%) RSI=50 SIDE
+  AVAX: $9.09 (-4.3%) RSI=34 DOWN
+  ARB: $0.09 (-6.4%) RSI=18 SIDE
+  DOGE: $0.09 (-2.9%) RSI=52 SIDE
+  SUI: $0.93 (-3.6%) RSI=40 SIDE
+  LINK: $8.79 (-3.0%) RSI=41 SIDE
+  OP: $0.12 (-5.4%) RSI=31 SIDE
+
+💰 账户状态...
+  小夏: $298.25 PnL=$-0.62 持仓=3
+  ClawFi: $108.97 PnL=$+0.14 持仓=3
+
+🎯 交易信号...
+  小夏 ARB: LONG - RSI严重超卖(18) | 超卖反弹信号
+  ClawFi ARB: LONG - RSI严重超卖(18) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 ARB LONG 477.9117
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ARB LONG 139.6933
+     原因: RSI严重超卖(18) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905027603067051720
+
+============================================================
+摘要: 净值=$407.22 PnL=$-0.48 操作=2笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-23 04:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $68,178.00 (-3.1%) RSI=30 DOWN
+  ETH: $2,062.20 (-4.2%) RSI=22 DOWN
+  SOL: $86.84 (-3.5%) RSI=29 DOWN
+  ATOM: $1.78 (-2.8%) RSI=36 DOWN
+  AVAX: $8.97 (-5.6%) RSI=16 DOWN
+  ARB: $0.09 (-7.3%) RSI=11 DOWN
+  DOGE: $0.09 (-3.9%) RSI=27 DOWN
+  SUI: $0.91 (-5.4%) RSI=21 DOWN
+  LINK: $8.71 (-4.2%) RSI=21 DOWN
+  OP: $0.11 (-6.7%) RSI=17 DOWN
+
+💰 账户状态...
+  小夏: $294.76 PnL=$-4.12 持仓=3
+  ClawFi: $107.93 PnL=$-0.91 持仓=3
+
+🎯 交易信号...
+  小夏 ETH: LONG - RSI严重超卖(22) | 超卖反弹信号
+  ClawFi ETH: LONG - RSI严重超卖(22) | 超卖反弹信号
+  小夏 AVAX: LONG - RSI严重超卖(16) | 超卖反弹信号
+  ClawFi AVAX: LONG - RSI严重超卖(16) | 超卖反弹信号
+  小夏 ARB: LONG - RSI严重超卖(11) | 超卖反弹信号
+  ClawFi ARB: LONG - RSI严重超卖(11) | 超卖反弹信号
+  小夏 DOGE: LONG - RSI严重超卖(27) | 超卖反弹信号
+  ClawFi DOGE: LONG - RSI严重超卖(27) | 超卖反弹信号
+  小夏 SUI: LONG - RSI严重超卖(21) | 超卖反弹信号
+  ClawFi SUI: LONG - RSI严重超卖(21) | 超卖反弹信号
+  小夏 LINK: LONG - RSI严重超卖(21) | 超卖反弹信号
+  ClawFi LINK: LONG - RSI严重超卖(21) | 超卖反弹信号
+  小夏 OP: LONG - RSI严重超卖(17) | 超卖反弹信号
+  ClawFi OP: LONG - RSI严重超卖(17) | 超卖反弹信号
+
+⚡ 执行交易...
+  📤 小夏 ETH LONG 0.0214
+     原因: RSI严重超卖(22) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ETH LONG 0.0063
+     原因: RSI严重超卖(22) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 AVAX LONG 4.9288
+     原因: RSI严重超卖(16) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi AVAX LONG 1.4438
+     原因: RSI严重超卖(16) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 ARB LONG 479.1802
+     原因: RSI严重超卖(11) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi ARB LONG 140.3635
+     原因: RSI严重超卖(11) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 DOGE LONG 488.8383
+     原因: RSI严重超卖(27) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi DOGE LONG 143.1926
+     原因: RSI严重超卖(27) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 SUI LONG 48.5617
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi SUI LONG 14.2249
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 LINK LONG 5.0782
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi LINK LONG 1.4875
+     原因: RSI严重超卖(21) | 超卖反弹信号
+     ✅ 成功
+  📤 小夏 OP LONG 386.1481
+     原因: RSI严重超卖(17) | 超卖反弹信号
+     ✅ 成功
+  📤 ClawFi OP LONG 113.1122
+     原因: RSI严重超卖(17) | 超卖反弹信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905043096085827560
+
+============================================================
+摘要: 净值=$402.69 PnL=$-5.03 操作=14笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-23 08:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $67,831.00 (-1.5%) RSI=35 DOWN
+  ETH: $2,052.50 (-1.6%) RSI=34 DOWN
+  SOL: $86.17 (-1.3%) RSI=37 DOWN
+  ATOM: $1.77 (-1.1%) RSI=46 DOWN
+  AVAX: $9.02 (-2.2%) RSI=35 SIDE
+  ARB: $0.09 (-3.7%) RSI=33 SIDE
+  DOGE: $0.09 (-1.5%) RSI=35 DOWN
+  SUI: $0.90 (-2.9%) RSI=32 DOWN
+  LINK: $8.68 (-1.9%) RSI=32 DOWN
+  OP: $0.11 (-2.9%) RSI=32 DOWN
+
+💰 账户状态...
+  小夏: $293.32 PnL=$-5.55 持仓=3
+  ClawFi: $107.26 PnL=$-1.58 持仓=3
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905058517165809352
+
+============================================================
+摘要: 净值=$400.58 PnL=$-7.13 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-23 12:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $68,043.00 (-1.8%) RSI=40 SIDE
+  ETH: $2,051.10 (-3.2%) RSI=38 DOWN
+  SOL: $86.37 (-2.9%) RSI=41 SIDE
+  ATOM: $1.77 (-1.1%) RSI=49 SIDE
+  AVAX: $9.10 (-2.1%) RSI=50 SIDE
+  ARB: $0.09 (-2.2%) RSI=56 SIDE
+  DOGE: $0.09 (-2.2%) RSI=41 SIDE
+  SUI: $0.91 (-3.5%) RSI=37 SIDE
+  LINK: $8.71 (-2.5%) RSI=38 SIDE
+  OP: $0.12 (-3.3%) RSI=47 SIDE
+
+💰 账户状态...
+  小夏: $294.04 PnL=$-4.84 持仓=3
+  ClawFi: $107.46 PnL=$-1.38 持仓=3
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+❌ 保存失败: {'success': False, 'data': None, 'error': {'code': 10202, 'message': '请求频率超限，请稍后重试', 'reason': 'qps_bucket_exceeded', 'rate_limit': {'read': {'daily': {'limit': 1000, 'used': 0, 'remaining': 1000, 'reset_at': 1774281600}, 'monthly': {'limit': 20000, 'used': 534, 'remaining': 19466, 'reset_at': 1774972800}}, 'write': {'daily': {'limit': 500, 'used': 4, 'remaining': 496, 'reset_at': 1774281600}, 'monthly': {'limit': 10000, 'used': 182, 'remaining': 9818, 'reset_at': 1774972800}}, 'write_note': {'daily': {'limit': 50, 'used': 4, 'remaining': 46, 'reset_at': 1774281600}, 'monthly': {'limit': 500, 'used': 163, 'remaining': 337, 'reset_at': 1774972800}}}}, 'meta': {'timestamp': 1774238403}, 'request_id': 'f1ae31c41652001'}
+
+============================================================
+摘要: 净值=$401.50 PnL=$-6.21 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-23 16:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $68,304.00 (-0.7%) RSI=47 DOWN
+  ETH: $2,043.90 (-1.9%) RSI=41 DOWN
+  SOL: $85.92 (-1.6%) RSI=40 DOWN
+  ATOM: $1.76 (-0.6%) RSI=34 DOWN
+  AVAX: $9.02 (-1.2%) RSI=49 SIDE
+  ARB: $0.09 (-2.1%) RSI=49 SIDE
+  DOGE: $0.09 (-0.9%) RSI=39 DOWN
+  SUI: $0.90 (-3.0%) RSI=34 DOWN
+  LINK: $8.64 (-2.1%) RSI=37 DOWN
+  OP: $0.11 (-2.8%) RSI=41 DOWN
+
+💰 账户状态...
+  小夏: $293.22 PnL=$-5.66 持仓=3
+  ClawFi: $107.34 PnL=$-1.50 持仓=3
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905089442004701160
+
+============================================================
+摘要: 净值=$400.56 PnL=$-7.17 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-23 20:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,083.00 (+2.1%) RSI=65 UP
+  ETH: $2,133.40 (+2.7%) RSI=67 UP
+  SOL: $88.72 (+1.7%) RSI=63 SIDE
+  ATOM: $1.82 (+2.1%) RSI=71 SIDE
+  AVAX: $9.38 (+3.1%) RSI=73 UP
+  ARB: $0.10 (+1.6%) RSI=64 SIDE
+  DOGE: $0.09 (+1.1%) RSI=70 SIDE
+  SUI: $0.94 (+1.9%) RSI=67 SIDE
+  LINK: $8.97 (+2.0%) RSI=71 SIDE
+  OP: $0.12 (+0.8%) RSI=63 SIDE
+
+💰 账户状态...
+  小夏: $83.06 PnL=$-59.90 持仓=1
+  ClawFi: $111.69 PnL=$+2.85 持仓=3
+
+🎯 交易信号...
+  小夏 SOL: CLOSE_LONG - 止损(-41.6%)
+  小夏 AVAX: SHORT - RSI严重超买(73) | 超买回调信号
+  ClawFi AVAX: SHORT - RSI严重超买(73) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 SOL CLOSE_LONG 0.1404
+     原因: 止损(-41.6%)
+     ✅ 成功
+  📤 小夏 AVAX SHORT 1.3275
+     原因: RSI严重超买(73) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi AVAX SHORT 1.4281
+     原因: RSI严重超买(73) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905104916771410072
+
+============================================================
+摘要: 净值=$194.75 PnL=$-57.05 操作=3笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-24 00:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,097.00 (+2.1%) RSI=63 SIDE
+  ETH: $2,127.80 (+2.4%) RSI=62 SIDE
+  SOL: $89.89 (+3.1%) RSI=66 UP
+  ATOM: $1.79 (+0.2%) RSI=52 SIDE
+  AVAX: $9.42 (+3.7%) RSI=65 UP
+  ARB: $0.09 (+1.0%) RSI=54 SIDE
+  DOGE: $0.09 (+2.4%) RSI=69 UP
+  SUI: $0.95 (+3.1%) RSI=69 UP
+  LINK: $9.04 (+3.0%) RSI=67 UP
+  OP: $0.11 (-0.8%) RSI=49 SIDE
+
+💰 账户状态...
+  小夏: $40.67 PnL=$-2.14 持仓=1
+  ClawFi: $111.82 PnL=$+2.98 持仓=3
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905120368991043888
+
+============================================================
+摘要: 净值=$152.49 PnL=$+0.84 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-24 04:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,636.00 (+3.7%) RSI=62 SIDE
+  ETH: $2,153.70 (+5.3%) RSI=72 UP
+  SOL: $91.33 (+6.3%) RSI=79 UP
+  ATOM: $1.76 (-0.6%) RSI=44 SIDE
+  AVAX: $9.46 (+5.4%) RSI=62 SIDE
+  ARB: $0.09 (+2.9%) RSI=60 SIDE
+  DOGE: $0.09 (+5.5%) RSI=74 UP
+  SUI: $0.96 (+6.1%) RSI=76 SIDE
+  LINK: $9.13 (+5.4%) RSI=75 UP
+  OP: $0.11 (-0.1%) RSI=41 SIDE
+
+💰 账户状态...
+  小夏: $53.44 PnL=$+10.63 持仓=1
+  ClawFi: $112.96 PnL=$+3.42 持仓=2
+
+🎯 交易信号...
+  小夏 SOL: SHORT - RSI严重超买(79) | 超买回调信号
+  ClawFi SOL: SHORT - RSI严重超买(79) | 超买回调信号
+  小夏 DOGE: SHORT - RSI严重超买(74) | 超买回调信号
+  ClawFi DOGE: SHORT - RSI严重超买(74) | 超买回调信号
+  小夏 SUI: SHORT - RSI严重超买(76) | 超买回调信号
+  ClawFi SUI: SHORT - RSI严重超买(76) | 超买回调信号
+  小夏 LINK: SHORT - RSI严重超买(75) | 超买回调信号
+  ClawFi LINK: SHORT - RSI严重超买(75) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 SOL SHORT 0.0878
+     原因: RSI严重超买(79) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi SOL SHORT 0.1484
+     原因: RSI严重超买(79) | 超买回调信号
+     ✅ 成功
+  📤 小夏 DOGE SHORT 84.5184
+     原因: RSI严重超买(74) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi DOGE SHORT 142.9245
+     原因: RSI严重超买(74) | 超买回调信号
+     ✅ 成功
+  📤 小夏 SUI SHORT 8.3881
+     原因: RSI严重超买(76) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi SUI SHORT 14.1846
+     原因: RSI严重超买(76) | 超买回调信号
+     ✅ 成功
+  📤 小夏 LINK SHORT 0.8783
+     原因: RSI严重超买(75) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi LINK SHORT 1.4852
+     原因: RSI严重超买(75) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905135851273359512
+
+============================================================
+摘要: 净值=$166.40 PnL=$+14.05 操作=8笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-24 08:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,860.00 (+4.8%) RSI=70 UP
+  ETH: $2,150.80 (+5.1%) RSI=69 SIDE
+  SOL: $91.38 (+6.5%) RSI=79 SIDE
+  ATOM: $1.78 (+0.5%) RSI=54 SIDE
+  AVAX: $9.57 (+5.9%) RSI=74 UP
+  ARB: $0.10 (+4.5%) RSI=71 UP
+  DOGE: $0.09 (+4.2%) RSI=72 SIDE
+  SUI: $0.95 (+5.3%) RSI=75 SIDE
+  LINK: $9.11 (+5.1%) RSI=72 SIDE
+  OP: $0.11 (-1.4%) RSI=50 DOWN
+
+💰 账户状态...
+  小夏: $81.32 PnL=$+38.47 持仓=1
+  ClawFi: $112.91 PnL=$+0.00 持仓=0
+
+🎯 交易信号...
+  小夏 SOL: SHORT - RSI严重超买(79) | 超买回调信号
+  ClawFi SOL: SHORT - RSI严重超买(79) | 超买回调信号
+  小夏 AVAX: SHORT - RSI严重超买(74) | 超买回调信号
+  ClawFi AVAX: SHORT - RSI严重超买(74) | 超买回调信号
+  小夏 DOGE: SHORT - RSI严重超买(72) | 超买回调信号
+  ClawFi DOGE: SHORT - RSI严重超买(72) | 超买回调信号
+  小夏 SUI: SHORT - RSI严重超买(75) | 超买回调信号
+  ClawFi SUI: SHORT - RSI严重超买(75) | 超买回调信号
+  小夏 LINK: SHORT - RSI严重超买(72) | 超买回调信号
+  ClawFi LINK: SHORT - RSI严重超买(72) | 超买回调信号
+
+⚡ 执行交易...
+  📤 小夏 SOL SHORT 0.1335
+     原因: RSI严重超买(79) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi SOL SHORT 0.1483
+     原因: RSI严重超买(79) | 超买回调信号
+     ✅ 成功
+  📤 小夏 AVAX SHORT 1.2751
+     原因: RSI严重超买(74) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi AVAX SHORT 1.4163
+     原因: RSI严重超买(74) | 超买回调信号
+     ✅ 成功
+  📤 小夏 DOGE SHORT 129.5841
+     原因: RSI严重超买(72) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi DOGE SHORT 143.934
+     原因: RSI严重超买(72) | 超买回调信号
+     ✅ 成功
+  📤 小夏 SUI SHORT 12.8025
+     原因: RSI严重超买(75) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi SUI SHORT 14.2203
+     原因: RSI严重超买(75) | 超买回调信号
+     ✅ 成功
+  📤 小夏 LINK SHORT 1.339
+     原因: RSI严重超买(72) | 超买回调信号
+     ✅ 成功
+  📤 ClawFi LINK SHORT 1.4873
+     原因: RSI严重超买(72) | 超买回调信号
+     ✅ 成功
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905151327114264880
+
+============================================================
+摘要: 净值=$194.23 PnL=$+38.47 操作=10笔
+============================================================
+
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+ERROR:websocket:fin=1 opcode=8 data=b'\x03\xe8Expired' - goodbye
+
+============================================================
+🤖 智能巡检 - 2026-03-24 12:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $70,499.00 (+2.9%) RSI=37 SIDE
+  ETH: $2,140.70 (+3.5%) RSI=37 SIDE
+  SOL: $90.28 (+3.6%) RSI=39 SIDE
+  ATOM: $1.77 (-0.6%) RSI=30 SIDE
+  AVAX: $9.58 (+4.6%) RSI=47 UP
+  ARB: $0.10 (+2.5%) RSI=52 UP
+  DOGE: $0.09 (+3.0%) RSI=47 SIDE
+  SUI: $0.94 (+2.9%) RSI=30 SIDE
+  LINK: $9.09 (+3.8%) RSI=44 SIDE
+  OP: $0.11 (-3.1%) RSI=28 DOWN
+
+💰 账户状态...
+  小夏: $75.80 PnL=$+32.91 持仓=1
+  ClawFi: $112.91 PnL=$+0.00 持仓=0
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905166753563050288
+
+============================================================
+摘要: 净值=$188.71 PnL=$+32.91 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-24 16:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $71,267.00 (+4.3%) RSI=55 UP
+  ETH: $2,164.60 (+6.0%) RSI=48 UP
+  SOL: $91.70 (+6.8%) RSI=55 UP
+  ATOM: $1.79 (+1.5%) RSI=61 SIDE
+  AVAX: $9.61 (+6.8%) RSI=59 UP
+  ARB: $0.10 (+5.3%) RSI=60 UP
+  DOGE: $0.10 (+6.0%) RSI=52 UP
+  SUI: $0.96 (+6.9%) RSI=46 SIDE
+  LINK: $9.24 (+7.0%) RSI=62 UP
+  OP: $0.11 (+1.0%) RSI=46 SIDE
+
+💰 账户状态...
+  小夏: $71.55 PnL=$+0.00 持仓=0
+  ClawFi: $112.91 PnL=$+0.00 持仓=0
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905182212227760432
+
+============================================================
+摘要: 净值=$184.46 PnL=$+0.00 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-24 20:00:01 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $71,126.00 (+0.6%) RSI=56 UP
+  ETH: $2,164.90 (-0.9%) RSI=57 UP
+  SOL: $91.72 (+0.5%) RSI=53 UP
+  ATOM: $1.79 (-2.2%) RSI=49 SIDE
+  AVAX: $9.55 (+0.9%) RSI=49 SIDE
+  ARB: $0.10 (+2.1%) RSI=52 UP
+  DOGE: $0.09 (+1.0%) RSI=43 SIDE
+  SUI: $0.95 (+0.4%) RSI=48 SIDE
+  LINK: $9.24 (+2.3%) RSI=62 UP
+  OP: $0.12 (-1.4%) RSI=53 UP
+
+💰 账户状态...
+  小夏: $71.55 PnL=$+0.00 持仓=0
+  ClawFi: $112.91 PnL=$+0.00 持仓=0
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905197676255442872
+
+============================================================
+摘要: 净值=$184.46 PnL=$+0.00 操作=0笔
+============================================================
+
+
+============================================================
+🤖 智能巡检 - 2026-03-25 00:00:02 UTC+8
+============================================================
+
+📊 扫描市场...
+  BTC: $69,835.00 (-1.7%) RSI=42 DOWN
+  ETH: $2,133.90 (-0.8%) RSI=50 DOWN
+  SOL: $89.69 (-1.7%) RSI=46 DOWN
+  ATOM: $1.77 (-0.8%) RSI=41 SIDE
+  AVAX: $9.44 (-0.9%) RSI=40 DOWN
+  ARB: $0.10 (+2.5%) RSI=54 SIDE
+  DOGE: $0.09 (-0.7%) RSI=52 DOWN
+  SUI: $0.94 (-1.4%) RSI=50 DOWN
+  LINK: $9.12 (+0.7%) RSI=57 SIDE
+  OP: $0.11 (-2.6%) RSI=49 SIDE
+
+💰 账户状态...
+  小夏: $0.01 PnL=$+0.00 持仓=0
+  ClawFi: $112.91 PnL=$+0.00 持仓=0
+
+🎯 交易信号...
+  无明确信号
+
+⚡ 执行交易...
+  无需交易
+
+📝 生成汇报...
+
+✅ 完成! 笔记ID: 1905213138135952304
+
+============================================================
+摘要: 净值=$112.92 PnL=$+0.00 操作=0笔
+============================================================
+
+[2026-03-25 04:00] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,554 | ETH $2,155 | SOL $90.8
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,688 | ETH $2,158 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,916 | ETH $2,164 | SOL $91.8
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $62.15 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 20:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 20:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,680 | ETH $2,186 | SOL $93.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $68.11 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 00:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 00:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,808 | ETH $2,162 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.21 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 04:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 04:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,878 | ETH $2,172 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.05 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,302 | ETH $2,168 | SOL $91.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $47.41 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,872 | ETH $2,152 | SOL $91.0
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $42.64 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,066 | ETH $2,123 | SOL $89.0
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.72 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 20:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 20:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,234 | ETH $2,067 | SOL $87.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $28.17 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 00:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 00:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,046 | ETH $2,069 | SOL $87.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.59 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 04:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 04:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,516 | ETH $2,048 | SOL $85.4
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.55 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,814 | ETH $2,060 | SOL $86.5
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $30.78 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,742 | ETH $2,060 | SOL $86.4
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $32.09 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,518 | ETH $2,065 | SOL $85.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $30.51 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 20:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 20:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,700 | ETH $1,991 | SOL $83.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $21.42 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 00:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 00:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,092 | ETH $1,990 | SOL $83.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $20.09 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 04:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 04:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,050 | ETH $1,991 | SOL $82.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $24.14 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,396 | ETH $1,992 | SOL $83.0
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $24.18 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,202 | ETH $1,988 | SOL $82.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.89 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,538 | ETH $2,006 | SOL $83.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $29.23 | 持仓数: 1
+- ClawFi主网: $112.92 | 持仓数: 1
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成

@@ -1,0 +1,2061 @@
+[2026-03-25 00:30] 开始执行巡检任务...
+获取市场数据失败: HTTPSConnectionPool(host='api.alternative.me', port=443): Read timed out. (read timeout=10)
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 01:00] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 01:30] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 02:00] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 02:30] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 03:00] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 03:30] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 04:00] 开始执行巡检任务...
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+获取账户状态失败: 'Info' object has no attribute 'clearinghouse_state'
+数据获取失败，终止推送
+[2026-03-25 04:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 04:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,998 | ETH $2,142 | SOL $89.7
+😨 市场情绪: Extreme Fear (11)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 05:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 05:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,088 | ETH $2,148 | SOL $90.0
+😨 市场情绪: Extreme Fear (11)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 05:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 05:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,042 | ETH $2,144 | SOL $90.0
+😨 市场情绪: Extreme Fear (11)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 06:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 06:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,322 | ETH $2,148 | SOL $90.4
+😨 市场情绪: Extreme Fear (11)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 06:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 06:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,222 | ETH $2,145 | SOL $90.3
+😨 市场情绪: Extreme Fear (11)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 07:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 07:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,310 | ETH $2,145 | SOL $90.3
+😨 市场情绪: Extreme Fear (11)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 07:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 07:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,742 | ETH $2,159 | SOL $91.0
+😨 市场情绪: Extreme Fear (11)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,554 | ETH $2,155 | SOL $90.8
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 08:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 08:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,654 | ETH $2,154 | SOL $91.1
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 09:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 09:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,822 | ETH $2,161 | SOL $91.3
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 09:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 09:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,744 | ETH $2,160 | SOL $91.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 10:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 10:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,656 | ETH $2,156 | SOL $90.9
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 10:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 10:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,568 | ETH $2,155 | SOL $91.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 11:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 11:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,506 | ETH $2,155 | SOL $91.1
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 11:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 11:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,524 | ETH $2,152 | SOL $91.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,688 | ETH $2,158 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $0.01 | 持仓数: 0
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 12:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 12:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,858 | ETH $2,163 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $65.08 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 13:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 13:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,950 | ETH $2,165 | SOL $92.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $67.33 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 13:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 13:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,178 | ETH $2,171 | SOL $92.6
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $64.52 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 14:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 14:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,094 | ETH $2,168 | SOL $92.4
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $65.02 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 14:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 14:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,206 | ETH $2,172 | SOL $92.8
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $65.65 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 15:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 15:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,978 | ETH $2,163 | SOL $92.4
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $62.32 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 15:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 15:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,038 | ETH $2,167 | SOL $92.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $65.05 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,916 | ETH $2,164 | SOL $91.8
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $62.15 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 16:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 16:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,168 | ETH $2,179 | SOL $92.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $63.28 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 17:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 17:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,242 | ETH $2,176 | SOL $92.3
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $63.52 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 17:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 17:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,238 | ETH $2,181 | SOL $92.4
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $62.39 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 18:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 18:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,336 | ETH $2,187 | SOL $92.6
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $62.76 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 18:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 18:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,362 | ETH $2,183 | SOL $92.5
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $64.19 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 19:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 19:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,464 | ETH $2,184 | SOL $92.6
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $63.3 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 19:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 19:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,819 | ETH $2,192 | SOL $93.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $64.81 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 20:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 20:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,680 | ETH $2,186 | SOL $93.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $68.11 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 20:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 20:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,296 | ETH $2,171 | SOL $92.5
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $57.46 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 21:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 21:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,718 | ETH $2,183 | SOL $93.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $62.23 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 21:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 21:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,659 | ETH $2,184 | SOL $93.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $60.64 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 22:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 22:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,568 | ETH $2,184 | SOL $92.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $54.92 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 22:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 22:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,350 | ETH $2,180 | SOL $92.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $53.03 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 23:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 23:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,208 | ETH $2,173 | SOL $91.9
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $53.66 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-25 23:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-25 23:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,998 | ETH $2,165 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.14 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 00:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 00:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,808 | ETH $2,162 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.21 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 00:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 00:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,470 | ETH $2,174 | SOL $92.4
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $56.71 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 01:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 01:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,294 | ETH $2,173 | SOL $92.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $53.97 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 01:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 01:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,042 | ETH $2,168 | SOL $92.1
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $52.46 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 02:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 02:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,738 | ETH $2,163 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.37 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 02:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 02:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,960 | ETH $2,169 | SOL $92.0
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.78 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 03:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 03:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,784 | ETH $2,161 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.23 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 03:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 03:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,930 | ETH $2,170 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $50.1 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 04:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 04:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,878 | ETH $2,172 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $51.05 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 04:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 04:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,688 | ETH $2,161 | SOL $91.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $44.51 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 05:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 05:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,984 | ETH $2,166 | SOL $91.4
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $44.59 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 05:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 05:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,948 | ETH $2,163 | SOL $91.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $44.04 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 06:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 06:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,006 | ETH $2,164 | SOL $91.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $44.28 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 06:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 06:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,006 | ETH $2,163 | SOL $91.2
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $44.66 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 07:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 07:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,334 | ETH $2,173 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $47.76 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 07:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 07:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,332 | ETH $2,172 | SOL $91.7
+😨 市场情绪: Extreme Fear (14)
+💰 账户状态:
+- 小夏主网: $46.83 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,302 | ETH $2,168 | SOL $91.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $47.41 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 08:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 08:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,260 | ETH $2,165 | SOL $91.7
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $45.61 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 09:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 09:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,270 | ETH $2,166 | SOL $91.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $45.27 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 09:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 09:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,282 | ETH $2,166 | SOL $91.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $45.9 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 10:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 10:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $71,211 | ETH $2,164 | SOL $91.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $45.26 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 10:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 10:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,858 | ETH $2,153 | SOL $91.2
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $41.69 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 11:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 11:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,852 | ETH $2,148 | SOL $90.9
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $43.07 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 11:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 11:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,678 | ETH $2,147 | SOL $90.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $39.12 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,872 | ETH $2,152 | SOL $91.0
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $42.64 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 12:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 12:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,832 | ETH $2,152 | SOL $90.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $39.2 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 13:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 13:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,730 | ETH $2,148 | SOL $90.7
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $38.9 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 13:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 13:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,538 | ETH $2,141 | SOL $90.0
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $36.97 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 14:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 14:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,960 | ETH $2,118 | SOL $89.1
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.15 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 14:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 14:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,042 | ETH $2,122 | SOL $89.1
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.79 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 15:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 15:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,062 | ETH $2,121 | SOL $89.0
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.82 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 15:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 15:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,936 | ETH $2,116 | SOL $88.9
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.13 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $70,066 | ETH $2,123 | SOL $89.0
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.72 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 16:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 16:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,788 | ETH $2,115 | SOL $88.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.3 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 17:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 17:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,986 | ETH $2,119 | SOL $88.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.97 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 17:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 17:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,990 | ETH $2,116 | SOL $88.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.59 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 18:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 18:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,538 | ETH $2,081 | SOL $88.1
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.25 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 18:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 18:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,628 | ETH $2,082 | SOL $88.2
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $28.67 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 19:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 19:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,494 | ETH $2,077 | SOL $87.9
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $28.17 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 19:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 19:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,280 | ETH $2,067 | SOL $87.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $27.57 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 20:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 20:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,234 | ETH $2,067 | SOL $87.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $28.17 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 20:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 20:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,398 | ETH $2,070 | SOL $87.7
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.45 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 21:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 21:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,416 | ETH $2,073 | SOL $87.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.28 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 21:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 21:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,360 | ETH $2,075 | SOL $87.7
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $32.35 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 22:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 22:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,632 | ETH $2,080 | SOL $87.9
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $33.12 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 22:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 22:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,584 | ETH $2,075 | SOL $87.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $33.51 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 23:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 23:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,456 | ETH $2,075 | SOL $87.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $32.46 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-26 23:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-26 23:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,998 | ETH $2,064 | SOL $87.4
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.65 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 00:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 00:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,040 | ETH $2,069 | SOL $87.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.59 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 00:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 00:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,856 | ETH $2,064 | SOL $87.4
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $32.97 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 01:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 01:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,914 | ETH $2,060 | SOL $87.2
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.98 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 01:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 01:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,082 | ETH $2,068 | SOL $87.3
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.2 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 02:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 02:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,462 | ETH $2,048 | SOL $86.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.9 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 02:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 02:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,168 | ETH $2,036 | SOL $85.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.15 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 03:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 03:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,482 | ETH $2,046 | SOL $86.0
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.6 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 03:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 03:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,434 | ETH $2,041 | SOL $85.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.96 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 04:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 04:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,516 | ETH $2,048 | SOL $85.4
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.55 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 04:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 04:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,170 | ETH $2,068 | SOL $86.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.06 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 05:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 05:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,942 | ETH $2,061 | SOL $86.2
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $29.67 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 05:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 05:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,068 | ETH $2,072 | SOL $86.9
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.65 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 06:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 06:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,928 | ETH $2,068 | SOL $86.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.36 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 06:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 06:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,702 | ETH $2,060 | SOL $86.5
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.94 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 07:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 07:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,918 | ETH $2,067 | SOL $86.8
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $31.14 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 07:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 07:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,714 | ETH $2,061 | SOL $86.6
+😨 市场情绪: Extreme Fear (10)
+💰 账户状态:
+- 小夏主网: $30.84 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,806 | ETH $2,059 | SOL $86.5
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $30.78 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 08:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 08:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,702 | ETH $2,059 | SOL $86.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $31.86 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 09:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 09:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,768 | ETH $2,065 | SOL $86.5
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $31.65 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 09:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 09:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,886 | ETH $2,070 | SOL $86.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $32.35 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 10:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 10:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $69,030 | ETH $2,073 | SOL $86.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $33.21 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 10:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 10:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,996 | ETH $2,072 | SOL $86.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $33.26 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 11:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 11:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,900 | ETH $2,068 | SOL $86.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $31.73 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 11:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 11:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,810 | ETH $2,062 | SOL $86.4
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $31.96 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,742 | ETH $2,060 | SOL $86.4
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $32.09 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 12:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 12:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,500 | ETH $2,050 | SOL $86.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $32.5 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 13:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 13:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,536 | ETH $2,052 | SOL $86.1
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $32.39 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 13:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 13:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,574 | ETH $2,058 | SOL $86.1
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $31.87 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 14:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 14:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,602 | ETH $2,060 | SOL $86.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $31.55 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 14:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 14:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,763 | ETH $2,064 | SOL $86.2
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $30.8 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 15:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 15:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,638 | ETH $2,062 | SOL $86.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $31.01 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 15:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 15:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,896 | ETH $2,070 | SOL $86.2
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $30.58 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,518 | ETH $2,065 | SOL $85.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $30.51 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 16:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 16:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $68,184 | ETH $2,053 | SOL $85.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $29.73 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 17:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 17:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $67,890 | ETH $2,047 | SOL $85.1
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $28.84 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 17:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 17:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $67,898 | ETH $2,049 | SOL $85.1
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $27.96 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 18:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 18:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $67,674 | ETH $2,040 | SOL $85.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $27.71 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 18:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 18:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $67,738 | ETH $2,042 | SOL $85.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $28.2 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 19:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 19:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,494 | ETH $1,990 | SOL $83.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.89 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 19:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 19:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,672 | ETH $1,996 | SOL $83.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.24 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 20:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 20:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,700 | ETH $1,991 | SOL $83.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $21.42 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 20:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 20:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,510 | ETH $1,986 | SOL $83.1
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $23.08 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 21:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 21:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,610 | ETH $1,988 | SOL $83.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.26 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 21:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 21:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,642 | ETH $1,993 | SOL $83.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $21.31 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 22:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 22:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,116 | ETH $1,976 | SOL $82.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $20.96 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 22:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 22:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,706 | ETH $1,972 | SOL $82.6
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $21.07 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 23:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 23:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,206 | ETH $1,989 | SOL $83.1
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $20.17 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-27 23:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-27 23:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,310 | ETH $1,994 | SOL $83.4
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $20.0 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 00:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 00:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,092 | ETH $1,990 | SOL $83.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $20.09 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 00:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 00:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,946 | ETH $1,984 | SOL $82.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $20.37 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 01:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 01:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,980 | ETH $1,986 | SOL $83.0
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $20.99 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 01:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 01:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,850 | ETH $1,982 | SOL $82.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.63 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 02:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 02:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,612 | ETH $1,976 | SOL $82.2
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.53 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 02:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 02:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,756 | ETH $1,979 | SOL $82.1
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $24.01 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 03:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 03:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,840 | ETH $1,983 | SOL $82.3
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $24.28 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 03:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 03:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,926 | ETH $1,989 | SOL $82.5
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $24.33 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 04:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 04:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,050 | ETH $1,991 | SOL $82.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $24.11 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 04:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 04:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,876 | ETH $1,982 | SOL $82.5
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $24.39 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 05:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 05:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,002 | ETH $1,985 | SOL $82.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $23.2 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 05:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 05:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,148 | ETH $1,988 | SOL $82.9
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.47 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 06:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 06:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,064 | ETH $1,985 | SOL $82.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.71 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 06:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 06:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $65,996 | ETH $1,984 | SOL $82.6
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.76 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 07:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 07:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,010 | ETH $1,984 | SOL $82.7
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $22.8 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 07:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 07:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,172 | ETH $1,987 | SOL $82.8
+😨 市场情绪: Extreme Fear (13)
+💰 账户状态:
+- 小夏主网: $23.68 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 08:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 08:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,396 | ETH $1,992 | SOL $83.0
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $24.18 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 08:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 08:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,344 | ETH $1,991 | SOL $82.8
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $23.93 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 09:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 09:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,402 | ETH $1,991 | SOL $82.8
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $25.04 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 09:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 09:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,186 | ETH $1,987 | SOL $82.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $27.18 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 10:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 10:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,142 | ETH $1,989 | SOL $82.6
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $27.39 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 10:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 10:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,026 | ETH $1,984 | SOL $82.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $28.11 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 11:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 11:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,040 | ETH $1,987 | SOL $82.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $29.58 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 11:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 11:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,144 | ETH $1,989 | SOL $82.6
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.6 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 12:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 12:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,202 | ETH $1,988 | SOL $82.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.89 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 12:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 12:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,244 | ETH $1,990 | SOL $82.6
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.64 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 13:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 13:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,258 | ETH $1,990 | SOL $82.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.21 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 13:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 13:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,316 | ETH $1,992 | SOL $82.6
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $29.82 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 14:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 14:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,328 | ETH $1,994 | SOL $82.7
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.02 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 14:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 14:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,458 | ETH $2,003 | SOL $83.1
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $29.51 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 15:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 15:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,376 | ETH $2,000 | SOL $83.1
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.7 | 持仓数: 1
+- ClawFi主网: $112.91 | 持仓数: 0
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 15:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 15:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,448 | ETH $2,004 | SOL $83.4
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $30.35 | 持仓数: 1
+- ClawFi主网: $112.9 | 持仓数: 1
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 16:00] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 16:00]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,538 | ETH $2,006 | SOL $83.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $29.23 | 持仓数: 1
+- ClawFi主网: $112.92 | 持仓数: 1
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成
+[2026-03-28 16:30] 开始执行巡检任务...
+推送消息:
+ 📊 加密大盘速递 [2026-03-28 16:30]
+━━━━━━━━━━━━━━━━
+🔥 BTC $66,534 | ETH $2,004 | SOL $83.5
+😨 市场情绪: Extreme Fear (12)
+💰 账户状态:
+- 小夏主网: $29.69 | 持仓数: 1
+- ClawFi主网: $111.75 | 持仓数: 1
+
+消息推送失败: 401 Client Error: Unauthorized for url: https://api.telegram.org/bot7055825817:AAG8VqJw3PmzJgV2bU0J10FzrRgU4X7Y9zM/sendMessage
+巡检任务执行完成

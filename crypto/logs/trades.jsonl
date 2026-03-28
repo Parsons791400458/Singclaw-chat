@@ -1,0 +1,5 @@
+{"time": "2026-03-17 23:23:08", "action": "close", "coin": "ETH", "side": "LONG", "size": 0.0121, "status": "filled"}
+{"time": "2026-03-20 00:00:06", "action": "close", "coin": "ETH", "side": "SHORT", "size": 0.0242, "fill_price": "2127.9", "pnl": "0", "status": "filled"}
+{"time": "2026-03-24 00:00:07", "action": "close", "coin": "SOL", "side": "LONG", "size": 0.23, "fill_price": "89.496", "pnl": "0", "status": "filled"}
+{"time": "2026-03-24 04:00:04", "action": "close", "coin": "BTC", "side": "LONG", "size": 0.0008, "fill_price": "70333", "pnl": "0", "status": "filled"}
+{"time": "2026-03-24 04:00:06", "action": "close", "coin": "ETH", "side": "LONG", "size": 0.0251, "fill_price": "2143.5", "pnl": "0", "status": "filled"}

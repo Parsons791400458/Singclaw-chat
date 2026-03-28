@@ -1,0 +1,3 @@
+{"timestamp": "2026-02-24T16:45:46.128534", "symbol": "BTC", "side": "buy", "size": 0.001, "price": 80000.0, "order_id": "unknown", "status": "submitted", "response": "{'status': 'err', 'response': 'Multi-sig required'}"}
+{"timestamp": "2026-02-24T17:35:39.654135", "symbol": "BTC", "side": "buy", "size": 0.001, "price": 80000.0, "order_id": "unknown", "status": "submitted", "response": "{'status': 'err', 'response': 'Multi-sig required'}"}
+{"timestamp": "2026-02-24T18:22:21.022374", "symbol": "BTC", "side": "buy", "size": 0.001, "price": 80000.0, "order_id": "unknown", "status": "submitted", "response": "{'status': 'err', 'response': 'Multi-sig required'}"}

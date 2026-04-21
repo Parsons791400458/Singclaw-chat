@@ -6,30 +6,21 @@
 > **团队容量**: 38点 | **已分配**: 31点 | **Buffer**: 7点
 
 ---
-
 ## 🚨 星哥紧急指令（立即执行，优先级高于一切）
-
 ### 学习任务 + 产品优化 + 产品想法
-
 **学习材料**：`artifacts/learning/product-management-ai-exponential-2026-04-20.md`
-
 **交付要求**（30分钟内完成）：
 1. **学习总结**：全体成员阅读后，每人输出1-2条结合角色的启发
 2. **learning迭代计划**：接下来learning模块会如何迭代更新？
 3. **产品优化建议**：基于Cat Wu文章的四大转变，立即提出至少3条对现有产品的优化建议
 4. **新产品想法**：基于"Scaffolding原则"和"短冲刺side quests"模式，提出至少2个新产品/功能想法
 5. **输出文件**：`artifacts/sprints/learning-session-2026-04-20.md`
-
 **核心思考方向**：
 - 我们的Stage-Gate流程是否需要适应AI指数进步加速？
 - 用户手动拼接的工作流中，哪些是我们该内建的？
 - 每次新模型发布=自动触发功能复审，这个机制如何落地？
 - 原型优先于PRD——我们的工作流如何改造？
-
----
-
 ## 📊 Sprint Burndown
-
 | 日期 | 剩余点数 | 已完成 | 备注 |
 |------|---------|--------|------|
 | 04-17 | 13.6 | 17.4 | Day1爆发: 8份文档落地, 56%进度 |
@@ -97,7 +88,9 @@
 | 04-20 16:18 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期**🔴🔴🔴🔴🔴(明哥); 零推进**57h+**; **周一工作日(09:00-00:18 CST)全天静默**; AS-001全链路100%完成待Review消化; 强烈建议星哥/明哥确认: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估; 进度80.6% |
 | 04-20 17:10 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期9h+**🔴🔴🔴🔴🔴(明哥); 零推进**58h+**; **已进入周二凌晨01:10 CST深夜静默窗口**; AS-001全链路100%完成待Review消化; 明日09:00 CST重启关注: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% |
 | 04-20 18:14 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (101行侧边栏); 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期10h+**🔴🔴🔴🔴🔴(明哥); 零推进**59h+**; **周二凌晨02:14 CST深夜静默**; AS-001全链路100%完成待Review消化; 09:00 CST关注: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% |
-| 04-20 20:19 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit b4e7593, 4 files changed/45 insertions, 侧边栏102行); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期12h+**🔴🔴🔴🔴🔴(明哥); 零推进**61h+**; **周二凌晨04:19 CST深夜静默**; 09:00 CST关注: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④学习任务交付消化状态; 进度80.6% |
+| 04-20 20:19 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit b4e7593, 4 files changed/45 insertions, 侧边栏102行); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期12h+**🔴🔴🔴🔴🔴(明哥); 零推进**61h+**; **周二凌晨04:19 CST深夜静默**; 09:00 CST关注: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④学习任务交付消化状态; 进度80.6%
+| 04-21 20:18 | 6.1 | 24.9 | 📊 **周度竞品监控三份报告产出**(小洞): 监控报告+GameFi矩阵(20项目含04-21增量)+加密工具矩阵; 自动部署v4.0成功(commit dbbd138, 侧边栏124行); 🌐 https://singclaw.xyz/wiki; Review队列6项零消化; SC-001渠道策略**超期4天**🔴🔴🔴🔴🔴🔴(明哥); 零推进**85h+**; 进度80.6% |
+| 04-21 21:03 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (125行侧边栏); 无新增specs/artifacts产出; Review队列6项零消化; SC-001渠道策略Review **已超期5天**🔴🔴🔴🔴🔴🔴🔴(明哥, DDL 04-20); 零推进**86h+**; **周三05:03 CST凌晨静默**; AS-001 v1.2实盘验证第3日; 持续建议: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④Review超时自动通过机制设计; 进度80.6% |
 | 04-21 09:15 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit fdb3a4a, 4 files changed/63 insertions, 侧边栏112行); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期25h+**🔴🔴🔴🔴🔴(明哥, DDL 04-20); 零推进**63h+**; **周二17:15 CST工作日**; AS-001全链路100%完成已超3天; 小验5pt已空闲65h+; **强烈建议星哥/明哥确认**: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% | |
 | 04-21 06:13 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (109行侧边栏); 无新增specs/artifacts产出; Review队列4项(6→4,清理过时重复项); SC-001渠道策略Review **已超期58h+**🔴×8(明哥); 零推进**75h+**; **周二14:13 CST工作日**; AS-001 v1.2实盘首日(A股已收盘待确认); 强烈建议: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% |
 | 04-20 21:03 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (103行侧边栏); 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期13h+**🔴🔴🔴🔴🔴(明哥); 零推进**61h+**; **周二05:03 CST深夜静默**; Sprint Report 已输出; 明日09:00 CST优先处理: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% |
@@ -118,23 +111,17 @@
 | 04-21 16:18 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (119行侧边栏); 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期~44h+**🔴×18(明哥, DDL 04-20); 零推进**86h+**; **周三00:18 CST凌晨静默期**; AS-001 v1.2实盘验证第2日已完成; 持续建议: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④Review超时自动通过机制设计; 进度80.6% |
 | 04-21 17:07 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit 530b319, 4 files changed/46 insertions, _sidebar.md 120行); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期77h+**🔴×24(明哥, DDL 04-20); 零推进**87h+**; **周三01:07 CST凌晨静默**; AS-001 v1.2实盘验证第2日已完成; 持续建议: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④Review超时自动通过机制设计; 进度80.6% |
 | 04-21 18:13 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit 82817d3, 5 files changed/228 insertions, _sidebar.md 122行); 🌐 https://singclaw.xyz/wiki; 📄 新增`specs/competitive/monitor-2026-04-21.md`(竞品监控日报)已部署; Review队列6项无变化; SC-001渠道策略Review **已超期78h+**🔴×25(明哥, DDL 04-20); 零推进**88h+**; **周三02:13 CST凌晨静默**; 持续建议: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④Review超时自动通过机制设计; 进度80.6% |
-
----
-
+| 04-21 19:06 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit eb9fcb3, 4 files changed/49 insertions, _sidebar.md 123行); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期79h+**🔴×26(明哥, DDL 04-20); 零推进**89h+**; **周三03:06 CST凌晨静默**; 持续建议: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④Review超时自动通过机制设计; 进度80.6% |
 ## 看板
-
 ### 📥 Todo
 *(全部任务已调度启动，见In Progress)*
-
 ### 🔨 In Progress
-
 #### [SC-001] SingClaw用户获取基建三件套 `5pt` `小增+小度`
 - **调度**: 小增渠道策略 11:50 CST 启动 ✅
 - [ ] GSC注册+sitemap提交（需星哥Google账号）
 - [ ] Umami统计部署+事件埋点定义
 - [ ] 首条社交帖子+渠道策略文档
 - **阻塞**: GSC/Umami注册需星哥操作，小增先产出渠道策略+帖子文案备用
-
 #### [AS-001] A股v1.1止损分级升级 `5pt` `小验+小度` — 进度100% ✅
 - **调度**: 小验PRD 12:00 CST 启动 ✅
 - [x] 现有AND止损规则问题分析 ✅
@@ -142,7 +129,6 @@
 - [x] ≥20日历史回测 ✅ v2完成(04-18 07:22 UTC) → 4假设全部通过 → `artifacts/backtest/as-001-backtest-report.md`
 - [x] v1.2规则文档 ✅ 小验产出(04-20 02:26 UTC) → `specs/rules/as-001-v1.2-rules.md`
 - **→ 移入Review队列, Reviewer: 小洞, DDL 04-26**
-
 #### [CR-001] 加密v6.0 Discovery `8pt` `小洞`
 - **调度**: 小洞 12:30 CST 启动 ✅
 - [ ] 策略交易工具竞品矩阵（≥10产品）
@@ -150,15 +136,11 @@
 - [ ] JTBD分析
 - [ ] 机会评估报告
 - **Gate 1截止**: Sprint Review (05-01)
-
 #### [SF-001] ShrimpFi Discovery `8pt` `小洞`
 - **调度**: 小洞 12:00 CST 启动 ✅
 - [ ] GameFi赛道竞品矩阵（≥15项目）
-- [ ] 目标用户Persona
 - [ ] Kano需求分类
 - [ ] TAM/SAM/SOM估算
-- **Gate 1截止**: Sprint Review (05-01)
-
 #### [SC-002] SingClaw数据度量体系 `5pt` `小度` — **已完成→Review**
 - **调度**: 小度 12:30 CST 启动 ✅
 - [x] AARRR漏斗指标定义 ✅
@@ -167,26 +149,17 @@
 - [x] 告警阈值 ✅
 - **产出**: `artifacts/dashboards/sc-002-metrics-framework.md`
 - **→ 移入Review队列, Reviewer: 小增, DDL 04-26**
-
 ### 👀 Review
-
 #### [CR-001] 加密竞品矩阵 → 小验Review (DDL 04-24)
 #### [SF-001] GameFi竞品矩阵 → 小验Review (DDL 04-28)
 #### [SC-002] 度量体系 → 小增Review (DDL 04-26)
 #### [AS-001] 回测报告 → 小洞Review (DDL 04-26)
 #### [AS-001] v1.2规则文档 → 小洞Review (DDL 04-26) ← **新增**
 #### [SC-001] 渠道策略 → 明哥Review (DDL 04-20) 🚨
-
 ### ✅ Done
 *(无)*
-
 ### ❌ Blocked
-*(无)*
-
----
-
 ## 容量分配
-
 | 成员 | 可用 | 已分配 | 任务 | 剩余 |
 |------|------|--------|------|------|
 | 小洞 | 8 | 8+8=16* | CR-001(8)+SF-001(8) | 0 |
@@ -194,26 +167,15 @@
 | 小度 | 10 | 5+5=10 | SC-002(5)+AS-001支援(5) | 0 |
 | 小增 | 10 | 5 | SC-001(5) | 5 |
 | **合计** | **38** | **31** | | **7** |
-
 *小洞超分配：两个Discovery各8点=16点，但研究型任务可并行（竞品分析共用方法论），实际工作量约12点，可行。*
-
----
-
 ## 任务依赖图
-
 ```
 SC-001(获客基建) ──→ SC-002(度量体系) ──→ 数据驱动迭代
                      ↑
 AS-001(止损升级) ──→ 小度提供回测数据
-
 CR-001(加密Discovery) ──→ Gate 1 → CR-002(Scoping)
 SF-001(ShrimpFi Discovery) ──→ Gate 1 → SF-002(BizCase)
-```
-
----
-
 ## 交叉Review分配
-
 | 产出 | 产出者 | Reviewer | 截止 |
 |------|--------|----------|------|
 | 加密竞品矩阵 | 小洞 | 小验 | 04-24 |
@@ -223,7 +185,4 @@ SF-001(ShrimpFi Discovery) ──→ Gate 1 → SF-002(BizCase)
 | v1.2规则文档 | 小验 | 小洞 | 04-26 | ← **新增** |
 | 度量体系 | 小度 | 小增 | 04-26 |
 | 渠道策略 | 小增 | 明哥 | 04-20 | 🔴 已超期 |
-
----
-
 *小迭备注：Sprint 1正式启动。我现在开始执行第一批任务。首先跑SC-001渠道策略+AS-001止损分析（无外部依赖可立即启动），CR-001和SF-001的Discovery同步启动。*

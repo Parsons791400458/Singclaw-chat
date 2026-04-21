@@ -101,6 +101,8 @@
 | 04-20 21:03 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (103行侧边栏); 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期13h+**🔴🔴🔴🔴🔴(明哥); 零推进**61h+**; **周二05:03 CST深夜静默**; Sprint Report 已输出; 明日09:00 CST优先处理: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% |
 | 04-20 22:20 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (104行侧边栏); 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期14h+**🔴🔴🔴🔴🔴(明哥); 零推进**62h+**; **周二06:20 CST早晨静默**; **Sprint #1报告已输出(hourly-2026-04-20-11.md)**; 今日09:00 CST优先处理: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% |
 | 04-20 23:06 | 6.1 | 24.9 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (104行侧边栏); 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期15h+**🔴🔴🔴🔴🔴(明哥); 零推进**63h+**; **周二07:06 CST早晨静默**; Sprint报告已输出; 今日09:00 CST优先处理: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配; 进度80.6% |
+| 04-21 00:17 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit 0638b93, 4 files changed/42 insertions, 39 deletions); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期16h+**🔴🔴🔴🔴🔴🔴(明哥); 零推进**70h+**; **周二08:17 CST早晨窗口即将开启**; 今日09:00 CST必须启动: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④Review队列消化; 进度80.6% |
+| 04-21 01:24 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit b39a66b, 4 files changed/47 insertions, 64 deletions); 🌐 https://singclaw.xyz/wiki; 无新增specs/artifacts产出; Review队列6项无变化; SC-001渠道策略Review **已超期17h+**🔴🔴🔴🔴🔴🔴(明哥); 零推进**71h+**; **周二09:24 CST工作日窗口已开启**; ⚠️ AS-001 v1.2实盘验证DDL今天; 今日行动: ①SC-001跳过Review直接发布 ②Sprint#1提前收尾评估 ③小验5pt重新分配 ④Review队列消化; 进度80.6% |
 
 ---
 

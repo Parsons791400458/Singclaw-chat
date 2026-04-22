@@ -93,6 +93,17 @@ WunderTrading         ★★★★☆   ★★★★☆    ★☆☆☆☆   ★
 
 ---
 
+### 2.4 新增竞品（2026-04-21增量更新）
+
+| 产品 | 成立年份 | Bot类型 | 支持交易所 | 全量扫描 | AI能力 | 定价 | 来源 |
+|------|---------|---------|-----------|---------|--------|------|------|
+| **MoneyFlare** | 2026 | AI自动交易(24/7) | 主流CEX | ❌ | ✅(AI市场分析+自动执行) | 未公开 | [GlobeNewswire 2026-04-20](https://www.financialcontent.com/article/gnwcq-2026-4-20-moneyflare-unveils-an-ai-crypto-trading-bot-for-247-automated-trading-in-2026) |
+| **SaintQuant** | 2026 | ML/DL量化(中立+套利+趋势) | 主流CEX | ❌ | ✅(ML+深度学习) | 未公开 | [Business Insider 2026-03-27](https://markets.businessinsider.com/news/currencies/saintquant-launches-ai-crypto-trading-bot-platform-streamlining-market-analysis-profitable-strategies-1035975869) |
+
+**更新说明**: 两家均为2026年Q1新上线的AI加密交易Bot平台。均不涉及全量扫描功能，v6.0的「全量扫描动量策略」竞争空白依然成立。行业趋势：免费AI交易Bot正成为获客标配（CoinAlertNews 2026-03-30）。
+
+---
+
 ## 四、关键发现 & 竞争空白
 
 ### 4.1 所有竞品的共同盲区

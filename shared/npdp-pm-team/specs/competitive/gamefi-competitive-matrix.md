@@ -6,7 +6,7 @@
 
 ---
 
-## 一、全景竞品矩阵（18个项目）
+## 一、全景竞品矩阵（20个项目，含2026-04-21增量更新）
 
 | # | 项目名称 | 链/L2 | 类型 | 代币 | 近似市值 | 峰值DAU | 当前DAU(估) | 收费模式 | 核心机制 |
 |---|---------|-------|------|------|---------|---------|------------|---------|---------|
@@ -28,6 +28,8 @@
 | 16 | **GMonchain** | Base | 社交休闲 | 无代币 | N/A | ~4.6K | ~4K UAW | 免费 | 轻量社交互动+Base原生 |
 | 17 | **Farverse** | Base | 虚拟世界/探索 | 无代币 | N/A | ~4K | ~1K UAW | 免费 | 链上世界状态+探索+持久互动 |
 | 18 | **ShrimpFi（我们）** | Base | Idle养虾/GameFi | 无(规划中) | 0 | 0 | 0 | F2P(规划) | 养虾Idle+邮箱订阅+Base原生 |
+| 19 | **B3** *(2026-04新增)* | Base | 游戏基础设施层 | B3 | ~$50M(估) | N/A(基础设施) | UAW第一(Base链) | 无 | 游戏专用Layer2+开发者工具+分发 |
+| 20 | **Farcaster生态游戏** *(2026-04新增)* | Base | 社交游戏/Frame | 多项目 | N/A | ~5-10K | ~2-5K | 免费 | Farcaster Frame内嵌游戏+社交分发 |
 
 ---
 
@@ -37,7 +39,7 @@
 
 | 链 | 项目数 | 代表 | 特点 |
 |---|-------|------|------|
-| **Base** | 4 (含ShrimpFi) | FrenPet, GMonchain, Farverse | 低Gas、Coinbase 1.1亿用户入口、生态早期 |
+| **Base** | 5+基础设施(含ShrimpFi+B3) | FrenPet, GMonchain, Farverse, B3 | 低Gas、Coinbase 1.1亿用户入口、生态早期、**UAW已领先Optimism/Mantle/Flow**(2026-04) |
 | **Ronin** | 2 | Axie, Pixels | 游戏专链、交易快、Axie生态溢出 |
 | **TON/Telegram** | 3 | Notcoin, Hamster, Catizen | 社交裂变强、门槛极低、用户规模巨大但留存差 |
 | **Ethereum/L2** | 5 | Sandbox, Illuvium, Big Time | 资产安全性高、Gas成本高、AAA倾向 |
@@ -138,3 +140,20 @@
 > ⚠️ 本矩阵基于公开数据整理，部分DAU为估算值。建议在Gate Review前用DappRadar/Footprint验证最新数据。
 > 
 > 📌 下一步：此矩阵将输入至sf-001-discovery-report.md的用户画像+Kano分析中使用。
+
+---
+
+## 五、增量更新记录（2026-04-21 小洞周度监控）
+
+### 新增项目
+- **B3**：Base链游戏基础设施层，UAW已超越Optimism/Mantle/Flow，成为游戏链层第一。作为基础设施而非直接竞品，但B3生态的繁荣将提升Base链整体游戏用户基数。
+- **Farcaster生态游戏**：基于Farcaster Frame的社交游戏趋势，在Base链上涌现多个轻量游戏项目，通过社交关系链分发。
+
+### NFT市场趋势（截至2026-04-20）
+- 全球NFT买家周环比+91.71%至103,182人；总销售额$60.42M（+12.12%）
+- Base链NFT周销售额$3.49M（-21.83%），排名第四
+- 🔴 **RWA/效用型NFT占比超65%**，市场从纯投机转向底层现金流定价
+- "Asset Health Score"（1-10分）成为主流平台标准
+- 对ShrimpFi启示：虾NFT应设计为**效用型**（产出能力/健康度可量化），参考Asset Health Score概念构建评分体系
+
+*更新人：小洞 | 2026-04-21 | 数据来源：CryptoSlam / BYDFi / themarketperiodical.com*

@@ -28,15 +28,20 @@ cp $NPDP/DEPLOY_PIPELINE.md $SITE/docs/DEPLOY_PIPELINE.md 2>/dev/null
 cp $NPDP/TEAM_PROTOCOL.md $SITE/docs/TEAM_PROTOCOL.md 2>/dev/null
 
 # 2. 重新生成 Docsify 侧边栏
-echo "[2/4] 生成侧边栏..."
+echo "[2/5] 生成侧边栏..."
 cd $SITE/docs
 bash gen-sidebar.sh
 cp _sidebar.md $SITE/wiki/_sidebar.md
 
-# 3. Git commit & push
-echo "[3/4] Git push..."
+# 3. 构建 Sprint 每日迭代看板
+echo "[3/5] 构建 Sprint 看板..."
 cd $SITE
-git add docs/ wiki/
+node scripts/build-sprint.js 2>&1
+
+# 4. Git commit & push
+echo "[4/5] Git push..."
+cd $SITE
+git add docs/ wiki/ sprint.html
 if git diff --cached --quiet; then
   echo "✅ 无变更"
   exit 0
@@ -44,8 +49,8 @@ fi
 git commit -m "🤖 NPDP自动部署 v4.0 $(date '+%Y-%m-%d %H:%M CST')"
 git push origin main 2>&1
 
-# 4. 触发Vercel部署
-echo "[4/4] 触发Vercel部署..."
+# 5. 触发Vercel部署
+echo "[5/5] 触发Vercel部署..."
 vercel deploy --prod 2>&1 | tail -3
 
 echo "✅ 部署完成: $(git log --oneline -1)"

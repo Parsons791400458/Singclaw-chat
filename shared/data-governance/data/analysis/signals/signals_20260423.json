@@ -1,0 +1,3858 @@
+{
+  "date": "2026-04-23",
+  "updated_at": "2026-04-23T19:33:05.102332+00:00",
+  "version": "v2 - 追高扣分版",
+  "total_signals": 199,
+  "signals": [
+    {
+      "symbol": "币安人生",
+      "price": 0.3481,
+      "change_24h": -11.4,
+      "volume_24h": 50227236.0,
+      "high": 0.3947,
+      "low": 0.3257,
+      "amplitude": 21.2,
+      "score": 75,
+      "rating": "⭐ 重点关注",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "大量：>5000万",
+        "健康波动：振幅20-50%",
+        "✅ 量价配合：启动+放量"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093831+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BIO",
+      "price": 0.0321,
+      "change_24h": 10.69,
+      "volume_24h": 28680362.0,
+      "high": 0.04,
+      "low": 0.0282,
+      "amplitude": 41.8,
+      "score": 70,
+      "rating": "⭐ 重点关注",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "放量：>1000万",
+        "健康波动：振幅20-50%",
+        "✅ 量价配合：启动+放量"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092910+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CHIP",
+      "price": 0.09896,
+      "change_24h": -12.23,
+      "volume_24h": 287994127.0,
+      "high": 0.14069,
+      "low": 0.08971,
+      "amplitude": 56.8,
+      "score": 65,
+      "rating": "⭐ 重点关注",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "巨量：>1亿",
+        "✅ 量价配合：启动+放量"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.093976+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BB",
+      "price": 0.0288,
+      "change_24h": 7.06,
+      "volume_24h": 13579556.0,
+      "high": 0.0351,
+      "low": 0.0262,
+      "amplitude": 34.0,
+      "score": 55,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "放量：>1000万",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092465+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HUMA",
+      "price": 0.02553,
+      "change_24h": 11.78,
+      "volume_24h": 12747505.0,
+      "high": 0.02737,
+      "low": 0.0224,
+      "amplitude": 22.2,
+      "score": 55,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "放量：>1000万",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093307+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NULS",
+      "price": 0.0258,
+      "change_24h": -7.19,
+      "volume_24h": 158334.0,
+      "high": 0.0289,
+      "low": 0.0227,
+      "amplitude": 27.3,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088502+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MDT",
+      "price": 0.00403,
+      "change_24h": -9.44,
+      "volume_24h": 414533.0,
+      "high": 0.00501,
+      "low": 0.00367,
+      "amplitude": 36.5,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089325+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "LRC",
+      "price": 0.01879,
+      "change_24h": -6.1,
+      "volume_24h": 2891178.0,
+      "high": 0.022,
+      "low": 0.0183,
+      "amplitude": 20.2,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089354+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ADAUP",
+      "price": 0.104,
+      "change_24h": -11.11,
+      "volume_24h": 416107.0,
+      "high": 0.118,
+      "low": 0.096,
+      "amplitude": 22.9,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089417+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ADADOWN",
+      "price": 0.001917,
+      "change_24h": 8.43,
+      "volume_24h": 648364.0,
+      "high": 0.00215,
+      "low": 0.001756,
+      "amplitude": 22.4,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089431+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "IRIS",
+      "price": 0.00521,
+      "change_24h": -6.46,
+      "volume_24h": 379456.0,
+      "high": 0.00625,
+      "low": 0.005,
+      "amplitude": 25.0,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089540+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "UNI",
+      "price": 3.24,
+      "change_24h": -5.01,
+      "volume_24h": 11558173.0,
+      "high": 3.414,
+      "low": 3.208,
+      "amplitude": 6.4,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089797+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DODO",
+      "price": 0.01947,
+      "change_24h": 8.41,
+      "volume_24h": 4806829.0,
+      "high": 0.0235,
+      "low": 0.01753,
+      "amplitude": 34.1,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090233+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DEGO",
+      "price": 0.116,
+      "change_24h": 6.42,
+      "volume_24h": 1792257.0,
+      "high": 0.139,
+      "low": 0.108,
+      "amplitude": 28.7,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090313+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MDX",
+      "price": 0.0345,
+      "change_24h": 13.52,
+      "volume_24h": 314139.0,
+      "high": 0.0383,
+      "low": 0.02917,
+      "amplitude": 31.3,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090480+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CLV",
+      "price": 0.02937,
+      "change_24h": 13.97,
+      "volume_24h": 349015.0,
+      "high": 0.03082,
+      "low": 0.02062,
+      "amplitude": 49.5,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090644+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HIFI",
+      "price": 0.127,
+      "change_24h": 6.19,
+      "volume_24h": 879730.0,
+      "high": 0.1393,
+      "low": 0.1143,
+      "amplitude": 21.9,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091641+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "GFT",
+      "price": 0.00196,
+      "change_24h": -14.41,
+      "volume_24h": 533097.0,
+      "high": 0.00243,
+      "low": 0.0019,
+      "amplitude": 27.9,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092011+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ORDI",
+      "price": 4.379,
+      "change_24h": -5.2,
+      "volume_24h": 14564804.0,
+      "high": 4.635,
+      "low": 4.186,
+      "amplitude": 10.7,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092077+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PDA",
+      "price": 0.00977,
+      "change_24h": -5.79,
+      "volume_24h": 533148.0,
+      "high": 0.0118,
+      "low": 0.0085,
+      "amplitude": 38.8,
+      "score": 45,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092301+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DOT",
+      "price": 1.223,
+      "change_24h": -5.34,
+      "volume_24h": 7993372.0,
+      "high": 1.292,
+      "low": 1.212,
+      "amplitude": 6.6,
+      "score": 40,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089620+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HIGH",
+      "price": 0.236,
+      "change_24h": -10.61,
+      "volume_24h": 5513738.0,
+      "high": 0.265,
+      "low": 0.23,
+      "amplitude": 15.2,
+      "score": 40,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091104+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "WLD",
+      "price": 0.2579,
+      "change_24h": -5.32,
+      "volume_24h": 7893418.0,
+      "high": 0.2739,
+      "low": 0.2549,
+      "amplitude": 7.5,
+      "score": 40,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091948+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "WIF",
+      "price": 0.178,
+      "change_24h": -11.0,
+      "volume_24h": 9651644.0,
+      "high": 0.201,
+      "low": 0.175,
+      "amplitude": 14.9,
+      "score": 40,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092321+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "XPL",
+      "price": 0.0974,
+      "change_24h": -7.15,
+      "volume_24h": 6608737.0,
+      "high": 0.1056,
+      "low": 0.0951,
+      "amplitude": 11.0,
+      "score": 40,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093599+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ZBT",
+      "price": 0.1131,
+      "change_24h": 11.87,
+      "volume_24h": 6738256.0,
+      "high": 0.1137,
+      "low": 0.0974,
+      "amplitude": 16.7,
+      "score": 40,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093687+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MET",
+      "price": 0.1735,
+      "change_24h": -8.68,
+      "volume_24h": 5734518.0,
+      "high": 0.1969,
+      "low": 0.1683,
+      "amplitude": 17.0,
+      "score": 40,
+      "rating": "👀 观察",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093774+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "WAVES",
+      "price": 1.076,
+      "change_24h": 11.97,
+      "volume_24h": 438682.0,
+      "high": 1.082,
+      "low": 0.951,
+      "amplitude": 13.8,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088585+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MITH",
+      "price": 0.00345,
+      "change_24h": -5.22,
+      "volume_24h": 414287.0,
+      "high": 0.00367,
+      "low": 0.0032,
+      "amplitude": 14.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088720+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "GTO",
+      "price": 0.01233,
+      "change_24h": -8.05,
+      "volume_24h": 534484.0,
+      "high": 0.01359,
+      "low": 0.01223,
+      "amplitude": 11.1,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088777+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DUSK",
+      "price": 0.135,
+      "change_24h": -5.33,
+      "volume_24h": 824092.0,
+      "high": 0.1435,
+      "low": 0.1346,
+      "amplitude": 6.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088808+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DOCK",
+      "price": 0.0039,
+      "change_24h": -6.47,
+      "volume_24h": 471081.0,
+      "high": 0.00437,
+      "low": 0.00374,
+      "amplitude": 16.8,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088895+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "REN",
+      "price": 0.04274,
+      "change_24h": 8.48,
+      "volume_24h": 476205.0,
+      "high": 0.04346,
+      "low": 0.0391,
+      "amplitude": 11.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088962+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TCT",
+      "price": 0.00312,
+      "change_24h": -6.59,
+      "volume_24h": 502387.0,
+      "high": 0.00346,
+      "low": 0.0031,
+      "amplitude": 11.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089159+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AION",
+      "price": 0.00943,
+      "change_24h": -10.19,
+      "volume_24h": 569915.0,
+      "high": 0.0108,
+      "low": 0.00919,
+      "amplitude": 17.5,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089225+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AUD",
+      "price": 0.7252,
+      "change_24h": -5.75,
+      "volume_24h": 454710.0,
+      "high": 0.772,
+      "low": 0.72,
+      "amplitude": 7.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089513+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SRM",
+      "price": 0.24442,
+      "change_24h": -5.46,
+      "volume_24h": 472900.0,
+      "high": 0.26478,
+      "low": 0.23855,
+      "amplitude": 11.0,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089573+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CRV",
+      "price": 0.2199,
+      "change_24h": -6.35,
+      "volume_24h": 4357923.0,
+      "high": 0.2352,
+      "low": 0.217,
+      "amplitude": 8.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089591+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TRB",
+      "price": 18.03,
+      "change_24h": -5.11,
+      "volume_24h": 1559164.0,
+      "high": 19.05,
+      "low": 17.6,
+      "amplitude": 8.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089663+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SUSHI",
+      "price": 0.2204,
+      "change_24h": -7.32,
+      "volume_24h": 969860.0,
+      "high": 0.2386,
+      "low": 0.2182,
+      "amplitude": 9.3,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089684+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "XRPUP",
+      "price": 0.0855,
+      "change_24h": -6.96,
+      "volume_24h": 218694.0,
+      "high": 0.0936,
+      "low": 0.0855,
+      "amplitude": 9.5,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089745+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NBS",
+      "price": 0.00166,
+      "change_24h": -8.79,
+      "volume_24h": 568887.0,
+      "high": 0.00185,
+      "low": 0.00161,
+      "amplitude": 14.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089808+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FLM",
+      "price": 0.0167,
+      "change_24h": 8.44,
+      "volume_24h": 258943.0,
+      "high": 0.0168,
+      "low": 0.015,
+      "amplitude": 12.0,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089855+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AKRO",
+      "price": 0.000981,
+      "change_24h": -10.57,
+      "volume_24h": 204099.0,
+      "high": 0.00112,
+      "low": 0.000906,
+      "amplitude": 23.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.089974+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DNT",
+      "price": 0.036,
+      "change_24h": -6.0,
+      "volume_24h": 775093.0,
+      "high": 0.0404,
+      "low": 0.0353,
+      "amplitude": 14.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089999+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BTCST",
+      "price": 5.35,
+      "change_24h": -5.14,
+      "volume_24h": 662595.0,
+      "high": 5.7,
+      "low": 5.17,
+      "amplitude": 10.3,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090149+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "LIT",
+      "price": 0.743,
+      "change_24h": 5.24,
+      "volume_24h": 799655.0,
+      "high": 0.755,
+      "low": 0.656,
+      "amplitude": 15.1,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090212+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BADGER",
+      "price": 0.762,
+      "change_24h": -7.41,
+      "volume_24h": 183491.0,
+      "high": 0.834,
+      "low": 0.74,
+      "amplitude": 12.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090267+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "OM",
+      "price": 0.0669,
+      "change_24h": -5.11,
+      "volume_24h": 570826.0,
+      "high": 0.0724,
+      "low": 0.066,
+      "amplitude": 9.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090293+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AUTO",
+      "price": 95.3,
+      "change_24h": -7.48,
+      "volume_24h": 570865.0,
+      "high": 105.0,
+      "low": 95.1,
+      "amplitude": 10.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090364+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MIR",
+      "price": 0.14168,
+      "change_24h": -7.39,
+      "volume_24h": 528568.0,
+      "high": 0.15401,
+      "low": 0.14116,
+      "amplitude": 9.1,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090405+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AR",
+      "price": 1.91,
+      "change_24h": -8.17,
+      "volume_24h": 3078800.0,
+      "high": 2.1,
+      "low": 1.9,
+      "amplitude": 10.5,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090463+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MASK",
+      "price": 0.516,
+      "change_24h": 6.17,
+      "volume_24h": 3526114.0,
+      "high": 0.545,
+      "low": 0.476,
+      "amplitude": 14.5,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090497+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "XVG",
+      "price": 0.00336,
+      "change_24h": -6.22,
+      "volume_24h": 708289.0,
+      "high": 0.003589,
+      "low": 0.00328,
+      "amplitude": 9.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090522+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ATA",
+      "price": 0.01,
+      "change_24h": -5.66,
+      "volume_24h": 128677.0,
+      "high": 0.0106,
+      "low": 0.0098,
+      "amplitude": 8.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090549+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ERN",
+      "price": 2.183,
+      "change_24h": 5.66,
+      "volume_24h": 639412.0,
+      "high": 2.21,
+      "low": 2.049,
+      "amplitude": 7.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090584+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ALPACA",
+      "price": 0.2244,
+      "change_24h": -5.4,
+      "volume_24h": 274900.0,
+      "high": 0.2548,
+      "low": 0.214,
+      "amplitude": 19.1,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090687+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ELF",
+      "price": 0.2272,
+      "change_24h": 8.81,
+      "volume_24h": 636800.0,
+      "high": 0.2374,
+      "low": 0.203,
+      "amplitude": 16.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090751+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DYDX",
+      "price": 0.13588,
+      "change_24h": -6.66,
+      "volume_24h": 2977593.0,
+      "high": 0.14574,
+      "low": 0.13046,
+      "amplitude": 11.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090762+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CITY",
+      "price": 0.699,
+      "change_24h": -8.15,
+      "volume_24h": 884017.0,
+      "high": 0.767,
+      "low": 0.695,
+      "amplitude": 10.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090962+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PLA",
+      "price": 0.2347,
+      "change_24h": 5.53,
+      "volume_24h": 802650.0,
+      "high": 0.238,
+      "low": 0.222,
+      "amplitude": 7.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091022+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SANTOS",
+      "price": 1.22,
+      "change_24h": -5.35,
+      "volume_24h": 709261.0,
+      "high": 1.295,
+      "low": 1.2,
+      "amplitude": 7.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091053+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ANC",
+      "price": 0.03151,
+      "change_24h": -7.73,
+      "volume_24h": 653323.0,
+      "high": 0.03518,
+      "low": 0.03101,
+      "amplitude": 13.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091240+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "XNO",
+      "price": 0.498,
+      "change_24h": -5.5,
+      "volume_24h": 124343.0,
+      "high": 0.528,
+      "low": 0.488,
+      "amplitude": 8.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091253+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MULTI",
+      "price": 0.834,
+      "change_24h": -11.18,
+      "volume_24h": 340181.0,
+      "high": 0.943,
+      "low": 0.803,
+      "amplitude": 17.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091428+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MOB",
+      "price": 0.0623,
+      "change_24h": -6.03,
+      "volume_24h": 350634.0,
+      "high": 0.0676,
+      "low": 0.0615,
+      "amplitude": 9.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091454+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "OP",
+      "price": 0.1188,
+      "change_24h": -6.75,
+      "volume_24h": 2963212.0,
+      "high": 0.1277,
+      "low": 0.1176,
+      "amplitude": 8.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091508+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NEBL",
+      "price": 0.355,
+      "change_24h": -13.62,
+      "volume_24h": 522051.0,
+      "high": 0.411,
+      "low": 0.352,
+      "amplitude": 16.8,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091563+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PHB",
+      "price": 0.106,
+      "change_24h": -5.36,
+      "volume_24h": 756380.0,
+      "high": 0.112,
+      "low": 0.104,
+      "amplitude": 7.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091607+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SSV",
+      "price": 2.555,
+      "change_24h": -7.63,
+      "volume_24h": 1094548.0,
+      "high": 2.788,
+      "low": 2.53,
+      "amplitude": 10.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091690+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PROM",
+      "price": 2.415,
+      "change_24h": 5.78,
+      "volume_24h": 2560909.0,
+      "high": 2.436,
+      "low": 2.18,
+      "amplitude": 11.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091739+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AST",
+      "price": 0.0261,
+      "change_24h": -5.78,
+      "volume_24h": 105363.0,
+      "high": 0.0284,
+      "low": 0.0258,
+      "amplitude": 10.1,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091879+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PENDLE",
+      "price": 1.291,
+      "change_24h": -6.04,
+      "volume_24h": 2440338.0,
+      "high": 1.374,
+      "low": 1.279,
+      "amplitude": 7.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091918+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TIA",
+      "price": 0.3568,
+      "change_24h": -6.87,
+      "volume_24h": 3881704.0,
+      "high": 0.3834,
+      "low": 0.3529,
+      "amplitude": 8.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092048+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BLUR",
+      "price": 0.03118,
+      "change_24h": -13.37,
+      "volume_24h": 2739920.0,
+      "high": 0.0362,
+      "low": 0.03059,
+      "amplitude": 18.3,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092135+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SAGA",
+      "price": 0.01718,
+      "change_24h": -7.63,
+      "volume_24h": 2828803.0,
+      "high": 0.01861,
+      "low": 0.01653,
+      "amplitude": 12.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092406+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "OMNI",
+      "price": 3.88,
+      "change_24h": -6.51,
+      "volume_24h": 1105810.0,
+      "high": 4.17,
+      "low": 3.82,
+      "amplitude": 9.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092439+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ZK",
+      "price": 0.01607,
+      "change_24h": -5.58,
+      "volume_24h": 1930680.0,
+      "high": 0.01716,
+      "low": 0.0159,
+      "amplitude": 7.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092517+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NEIRO",
+      "price": 8.817e-05,
+      "change_24h": -12.72,
+      "volume_24h": 10022608.0,
+      "high": 0.00010323,
+      "low": 8.609e-05,
+      "amplitude": 19.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好",
+        "放量：>1000万"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.092671+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TURBO",
+      "price": 0.00113,
+      "change_24h": -5.91,
+      "volume_24h": 1091852.0,
+      "high": 0.001206,
+      "low": 0.001115,
+      "amplitude": 8.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092682+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "EIGEN",
+      "price": 0.1806,
+      "change_24h": -5.45,
+      "volume_24h": 2414801.0,
+      "high": 0.1912,
+      "low": 0.1782,
+      "amplitude": 7.3,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092724+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CETUS",
+      "price": 0.02647,
+      "change_24h": -9.44,
+      "volume_24h": 2467126.0,
+      "high": 0.03032,
+      "low": 0.02591,
+      "amplitude": 17.0,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092762+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PNUT",
+      "price": 0.0522,
+      "change_24h": -10.31,
+      "volume_24h": 2572642.0,
+      "high": 0.0583,
+      "low": 0.0515,
+      "amplitude": 13.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092772+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ACT",
+      "price": 0.0136,
+      "change_24h": -7.48,
+      "volume_24h": 792008.0,
+      "high": 0.0147,
+      "low": 0.0135,
+      "amplitude": 8.9,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092783+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ME",
+      "price": 0.1041,
+      "change_24h": -5.28,
+      "volume_24h": 432532.0,
+      "high": 0.1102,
+      "low": 0.1028,
+      "amplitude": 7.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092841+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "1000CAT",
+      "price": 0.00184,
+      "change_24h": -6.6,
+      "volume_24h": 380311.0,
+      "high": 0.00197,
+      "low": 0.00181,
+      "amplitude": 8.8,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092879+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AIXBT",
+      "price": 0.027,
+      "change_24h": -5.92,
+      "volume_24h": 1587965.0,
+      "high": 0.0287,
+      "low": 0.0261,
+      "amplitude": 10.0,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092933+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BERA",
+      "price": 0.395,
+      "change_24h": -5.5,
+      "volume_24h": 1510791.0,
+      "high": 0.419,
+      "low": 0.393,
+      "amplitude": 6.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092991+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NIL",
+      "price": 0.04007,
+      "change_24h": -5.25,
+      "volume_24h": 1318123.0,
+      "high": 0.04288,
+      "low": 0.03848,
+      "amplitude": 11.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093099+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HYPER",
+      "price": 0.0942,
+      "change_24h": -5.14,
+      "volume_24h": 685192.0,
+      "high": 0.1,
+      "low": 0.0933,
+      "amplitude": 7.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093216+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "INIT",
+      "price": 0.084,
+      "change_24h": -6.56,
+      "volume_24h": 867664.0,
+      "high": 0.0912,
+      "low": 0.0818,
+      "amplitude": 11.5,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093229+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HAEDAL",
+      "price": 0.03224,
+      "change_24h": -5.4,
+      "volume_24h": 954822.0,
+      "high": 0.03525,
+      "low": 0.03139,
+      "amplitude": 12.3,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093291+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "RESOLV",
+      "price": 0.0293,
+      "change_24h": -8.72,
+      "volume_24h": 886509.0,
+      "high": 0.0322,
+      "low": 0.0289,
+      "amplitude": 11.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093337+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HOME",
+      "price": 0.01614,
+      "change_24h": -6.0,
+      "volume_24h": 455599.0,
+      "high": 0.01757,
+      "low": 0.01606,
+      "amplitude": 9.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093350+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "C",
+      "price": 0.0896,
+      "change_24h": 7.18,
+      "volume_24h": 3318740.0,
+      "high": 0.091,
+      "low": 0.0795,
+      "amplitude": 14.5,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093409+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TREE",
+      "price": 0.0663,
+      "change_24h": -5.01,
+      "volume_24h": 885058.0,
+      "high": 0.07,
+      "low": 0.066,
+      "amplitude": 6.1,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093424+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TOWNS",
+      "price": 0.00321,
+      "change_24h": -5.59,
+      "volume_24h": 710689.0,
+      "high": 0.00341,
+      "low": 0.00317,
+      "amplitude": 7.6,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093442+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HOLO",
+      "price": 0.0598,
+      "change_24h": -8.28,
+      "volume_24h": 1162514.0,
+      "high": 0.0654,
+      "low": 0.0591,
+      "amplitude": 10.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093519+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PUMP",
+      "price": 0.001781,
+      "change_24h": -6.46,
+      "volume_24h": 4207985.0,
+      "high": 0.001906,
+      "low": 0.001761,
+      "amplitude": 8.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093538+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BARD",
+      "price": 0.3044,
+      "change_24h": -7.37,
+      "volume_24h": 2630306.0,
+      "high": 0.3307,
+      "low": 0.3039,
+      "amplitude": 8.8,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093566+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "EUL",
+      "price": 1.524,
+      "change_24h": 5.03,
+      "volume_24h": 3053715.0,
+      "high": 1.575,
+      "low": 1.403,
+      "amplitude": 12.3,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093664+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TURTLE",
+      "price": 0.0467,
+      "change_24h": 5.42,
+      "volume_24h": 1339605.0,
+      "high": 0.048,
+      "low": 0.0431,
+      "amplitude": 11.4,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093700+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ALLO",
+      "price": 0.1143,
+      "change_24h": -6.0,
+      "volume_24h": 877392.0,
+      "high": 0.123,
+      "low": 0.1121,
+      "amplitude": 9.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093750+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FOGO",
+      "price": 0.01817,
+      "change_24h": -7.06,
+      "volume_24h": 720838.0,
+      "high": 0.01956,
+      "low": 0.01791,
+      "amplitude": 9.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093857+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SENT",
+      "price": 0.01957,
+      "change_24h": 10.01,
+      "volume_24h": 4224969.0,
+      "high": 0.01968,
+      "low": 0.01701,
+      "amplitude": 15.7,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093874+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "OPN",
+      "price": 0.1729,
+      "change_24h": -8.66,
+      "volume_24h": 2924438.0,
+      "high": 0.1905,
+      "low": 0.1698,
+      "amplitude": 12.2,
+      "score": 35,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093921+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PERL",
+      "price": 0.0046,
+      "change_24h": -20.55,
+      "volume_24h": 359284.0,
+      "high": 0.00585,
+      "low": 0.00453,
+      "amplitude": 29.1,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088858+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DREP",
+      "price": 0.0256,
+      "change_24h": -18.21,
+      "volume_24h": 404593.0,
+      "high": 0.0333,
+      "low": 0.025,
+      "amplitude": 33.2,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089134+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FOR",
+      "price": 0.00306,
+      "change_24h": -16.85,
+      "volume_24h": 369394.0,
+      "high": 0.00372,
+      "low": 0.003,
+      "amplitude": 24.0,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090709+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "VIDT",
+      "price": 0.00115,
+      "change_24h": -19.01,
+      "volume_24h": 183519.0,
+      "high": 0.00151,
+      "low": 0.00105,
+      "amplitude": 43.8,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090791+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CVP",
+      "price": 0.0339,
+      "change_24h": -23.3,
+      "volume_24h": 428915.0,
+      "high": 0.049,
+      "low": 0.0328,
+      "amplitude": 49.4,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090866+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BSW",
+      "price": 0.0112,
+      "change_24h": -8.94,
+      "volume_24h": 564542.0,
+      "high": 0.0131,
+      "low": 0.0083,
+      "amplitude": 57.8,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.091394+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BIFI",
+      "price": 32.1,
+      "change_24h": -23.21,
+      "volume_24h": 560704.0,
+      "high": 45.0,
+      "low": 32.0,
+      "amplitude": 40.6,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091410+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PROS",
+      "price": 0.0372,
+      "change_24h": -25.9,
+      "volume_24h": 112538.0,
+      "high": 0.052,
+      "low": 0.035,
+      "amplitude": 48.6,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091658+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "UFT",
+      "price": 0.0089,
+      "change_24h": -23.28,
+      "volume_24h": 107824.0,
+      "high": 0.0121,
+      "low": 0.0086,
+      "amplitude": 40.7,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091755+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "OAX",
+      "price": 0.0358,
+      "change_24h": -21.49,
+      "volume_24h": 202254.0,
+      "high": 0.0489,
+      "low": 0.0356,
+      "amplitude": 37.4,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091789+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "RDNT",
+      "price": 0.00328,
+      "change_24h": -19.21,
+      "volume_24h": 1095823.0,
+      "high": 0.0045,
+      "low": 0.00321,
+      "amplitude": 40.2,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091807+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "COMBO",
+      "price": 0.0276,
+      "change_24h": -16.62,
+      "volume_24h": 320263.0,
+      "high": 0.039,
+      "low": 0.0275,
+      "amplitude": 41.8,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091896+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SLF",
+      "price": 0.0208,
+      "change_24h": -12.24,
+      "volume_24h": 306329.0,
+      "high": 0.0242,
+      "low": 0.0156,
+      "amplitude": 55.1,
+      "score": 30,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.092638+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "MEME",
+      "price": 0.000559,
+      "change_24h": -5.09,
+      "volume_24h": 778921.0,
+      "high": 0.000589,
+      "low": 0.000552,
+      "amplitude": 6.7,
+      "score": 25,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.092061+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "1000SATS",
+      "price": 1.402e-05,
+      "change_24h": -7.88,
+      "volume_24h": 1036933.0,
+      "high": 1.524e-05,
+      "low": 1.366e-05,
+      "amplitude": 11.6,
+      "score": 25,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.092181+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BOME",
+      "price": 0.000508,
+      "change_24h": -12.11,
+      "volume_24h": 3131131.0,
+      "high": 0.000579,
+      "low": 0.000499,
+      "amplitude": 16.0,
+      "score": 25,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.092354+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NOT",
+      "price": 0.000394,
+      "change_24h": -5.52,
+      "volume_24h": 375302.0,
+      "high": 0.000417,
+      "low": 0.000388,
+      "amplitude": 7.5,
+      "score": 25,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.092484+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DOGS",
+      "price": 3.18e-05,
+      "change_24h": -6.47,
+      "volume_24h": 565085.0,
+      "high": 3.41e-05,
+      "low": 3.15e-05,
+      "amplitude": 8.3,
+      "score": 25,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.092617+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "1000CHEEMS",
+      "price": 0.000575,
+      "change_24h": -5.43,
+      "volume_24h": 814975.0,
+      "high": 0.000612,
+      "low": 0.000567,
+      "amplitude": 7.9,
+      "score": 25,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.093004+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BTC",
+      "price": 78043.38,
+      "change_24h": -1.12,
+      "volume_24h": 1346956962.0,
+      "high": 79163.66,
+      "low": 76960.0,
+      "amplitude": 2.9,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "巨量：>1亿"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.087578+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ETH",
+      "price": 2313.88,
+      "change_24h": -3.48,
+      "volume_24h": 836168889.0,
+      "high": 2407.24,
+      "low": 2285.42,
+      "amplitude": 5.3,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "巨量：>1亿"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088170+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "XRP",
+      "price": 1.4358,
+      "change_24h": -1.01,
+      "volume_24h": 140299150.0,
+      "high": 1.4516,
+      "low": 1.409,
+      "amplitude": 3.0,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "巨量：>1亿"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088406+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "USDC",
+      "price": 0.99952,
+      "change_24h": -0.01,
+      "volume_24h": 2538242058.0,
+      "high": 0.99965,
+      "low": 0.99942,
+      "amplitude": 0.0,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "巨量：>1亿"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088549+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "VITE",
+      "price": 0.00086,
+      "change_24h": -24.56,
+      "volume_24h": 234222.0,
+      "high": 0.00116,
+      "low": 0.0008,
+      "amplitude": 45.0,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.089062+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SOL",
+      "price": 85.45,
+      "change_24h": -3.11,
+      "volume_24h": 232141602.0,
+      "high": 88.37,
+      "low": 84.48,
+      "amplitude": 4.6,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "巨量：>1亿"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089272+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DEXE",
+      "price": 12.545,
+      "change_24h": 3.57,
+      "volume_24h": 15678749.0,
+      "high": 15.21,
+      "low": 11.742,
+      "amplitude": 29.5,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "放量：>1000万",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090623+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "OOKI",
+      "price": 0.000119,
+      "change_24h": -24.68,
+      "volume_24h": 712370.0,
+      "high": 0.000163,
+      "low": 0.000116,
+      "amplitude": 40.5,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.091156+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "LEVER",
+      "price": 0.000175,
+      "change_24h": -17.06,
+      "volume_24h": 388104.0,
+      "high": 0.000217,
+      "low": 0.000162,
+      "amplitude": 34.0,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.091526+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AMB",
+      "price": 0.00032,
+      "change_24h": -11.11,
+      "volume_24h": 369170.0,
+      "high": 0.00041,
+      "low": 0.00026,
+      "amplitude": 57.7,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "启动：涨幅5-15%，量价配合好"
+      ],
+      "risks": [
+        "高分歧：振幅>50%",
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.091706+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "STRK",
+      "price": 0.0423,
+      "change_24h": -0.7,
+      "volume_24h": 27167270.0,
+      "high": 0.0504,
+      "low": 0.0415,
+      "amplitude": 21.4,
+      "score": 20,
+      "rating": "⚠️ 谨慎",
+      "reasons": [
+        "放量：>1000万",
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092279+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BNB",
+      "price": 635.39,
+      "change_24h": -1.59,
+      "volume_24h": 67380769.0,
+      "high": 646.85,
+      "low": 631.0,
+      "amplitude": 2.5,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "大量：>5000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088244+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ZEC",
+      "price": 328.68,
+      "change_24h": 1.27,
+      "volume_24h": 60649661.0,
+      "high": 335.0,
+      "low": 311.34,
+      "amplitude": 7.6,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "大量：>5000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088660+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DOGE",
+      "price": 0.09621,
+      "change_24h": -1.13,
+      "volume_24h": 85584123.0,
+      "high": 0.09803,
+      "low": 0.09516,
+      "amplitude": 3.0,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "大量：>5000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088794+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "WING",
+      "price": 0.326,
+      "change_24h": -23.29,
+      "volume_24h": 334299.0,
+      "high": 0.456,
+      "low": 0.291,
+      "amplitude": 56.7,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.089778+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "UTK",
+      "price": 0.00795,
+      "change_24h": 16.91,
+      "volume_24h": 10207453.0,
+      "high": 0.0244,
+      "low": 0.00677,
+      "amplitude": 260.4,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成",
+        "放量：>1000万"
+      ],
+      "risks": [
+        "极端分歧：振幅>100%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.089878+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BURGER",
+      "price": 0.0172,
+      "change_24h": -28.63,
+      "volume_24h": 216978.0,
+      "high": 0.0255,
+      "low": 0.0166,
+      "amplitude": 53.6,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.090433+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DF",
+      "price": 0.00164,
+      "change_24h": -17.59,
+      "volume_24h": 107337.0,
+      "high": 0.00212,
+      "low": 0.00129,
+      "amplitude": 64.3,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.090840+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CHESS",
+      "price": 0.00281,
+      "change_24h": -16.86,
+      "volume_24h": 167264.0,
+      "high": 0.00388,
+      "low": 0.00255,
+      "amplitude": 52.2,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.090914+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "KDA",
+      "price": 0.006,
+      "change_24h": 17.65,
+      "volume_24h": 343775.0,
+      "high": 0.0072,
+      "low": 0.0048,
+      "amplitude": 50.0,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.091366+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "RED",
+      "price": 0.134,
+      "change_24h": 2.06,
+      "volume_24h": 5917921.0,
+      "high": 0.1566,
+      "low": 0.1267,
+      "amplitude": 23.6,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093050+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BANANAS31",
+      "price": 0.009895,
+      "change_24h": 4.81,
+      "volume_24h": 9123009.0,
+      "high": 0.011535,
+      "low": 0.009087,
+      "amplitude": 26.9,
+      "score": 15,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093151+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "LTC",
+      "price": 55.45,
+      "change_24h": -1.19,
+      "volume_24h": 12882974.0,
+      "high": 56.22,
+      "low": 54.9,
+      "amplitude": 2.4,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088313+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ADA",
+      "price": 0.2466,
+      "change_24h": -2.72,
+      "volume_24h": 31098222.0,
+      "high": 0.2541,
+      "low": 0.2446,
+      "amplitude": 3.9,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088384+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TRX",
+      "price": 0.3289,
+      "change_24h": 0.15,
+      "volume_24h": 35522444.0,
+      "high": 0.3303,
+      "low": 0.3264,
+      "amplitude": 1.2,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088470+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "LINK",
+      "price": 9.25,
+      "change_24h": -2.22,
+      "volume_24h": 21380056.0,
+      "high": 9.48,
+      "low": 9.14,
+      "amplitude": 3.7,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088565+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "KEY",
+      "price": 0.001253,
+      "change_24h": -3.02,
+      "volume_24h": 119195.0,
+      "high": 0.001389,
+      "low": 0.001053,
+      "amplitude": 31.9,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088880+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "EUR",
+      "price": 1.1693,
+      "change_24h": -0.14,
+      "volume_24h": 29702078.0,
+      "high": 1.1713,
+      "low": 1.1665,
+      "amplitude": 0.4,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089084+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "WRX",
+      "price": 0.0173,
+      "change_24h": -4.95,
+      "volume_24h": 400904.0,
+      "high": 0.0183,
+      "low": 0.0144,
+      "amplitude": 27.1,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089173+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "LTO",
+      "price": 0.0038,
+      "change_24h": 2.7,
+      "volume_24h": 410368.0,
+      "high": 0.004,
+      "low": 0.0029,
+      "amplitude": 37.9,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089199+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ETHUP",
+      "price": 11.651,
+      "change_24h": -0.72,
+      "volume_24h": 458839.0,
+      "high": 11.831,
+      "low": 9.029,
+      "amplitude": 31.0,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089401+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "KMD",
+      "price": 0.0163,
+      "change_24h": 1.88,
+      "volume_24h": 215280.0,
+      "high": 0.0205,
+      "low": 0.015,
+      "amplitude": 36.7,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089552+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PAXG",
+      "price": 4706.28,
+      "change_24h": -0.27,
+      "volume_24h": 17750209.0,
+      "high": 4737.59,
+      "low": 4657.87,
+      "amplitude": 1.7,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089644+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "OXT",
+      "price": 0.0094,
+      "change_24h": -4.08,
+      "volume_24h": 646796.0,
+      "high": 0.0124,
+      "low": 0.0092,
+      "amplitude": 34.8,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089820+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AVAX",
+      "price": 9.29,
+      "change_24h": -2.72,
+      "volume_24h": 23335369.0,
+      "high": 9.55,
+      "low": 9.16,
+      "amplitude": 4.3,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089837+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "AAVE",
+      "price": 91.84,
+      "change_24h": -3.35,
+      "volume_24h": 17835635.0,
+      "high": 95.59,
+      "low": 90.91,
+      "amplitude": 5.1,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089904+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NEAR",
+      "price": 1.394,
+      "change_24h": -1.83,
+      "volume_24h": 11813759.0,
+      "high": 1.422,
+      "low": 1.37,
+      "amplitude": 3.8,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089917+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TRU",
+      "price": 0.004,
+      "change_24h": 2.56,
+      "volume_24h": 2816913.0,
+      "high": 0.0056,
+      "low": 0.0038,
+      "amplitude": 47.4,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090167+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FIS",
+      "price": 0.0191,
+      "change_24h": -2.55,
+      "volume_24h": 203752.0,
+      "high": 0.0219,
+      "low": 0.0176,
+      "amplitude": 24.4,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.090279+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "NBT",
+      "price": 0.00252,
+      "change_24h": -4.54,
+      "volume_24h": 209187.0,
+      "high": 0.00276,
+      "low": 0.00216,
+      "amplitude": 27.8,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091294+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ARB",
+      "price": 0.1256,
+      "change_24h": -4.63,
+      "volume_24h": 10482372.0,
+      "high": 0.1327,
+      "low": 0.1234,
+      "amplitude": 7.5,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091773+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SUI",
+      "price": 0.9351,
+      "change_24h": -3.44,
+      "volume_24h": 25069714.0,
+      "high": 0.9699,
+      "low": 0.9235,
+      "amplitude": 5.0,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091840+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FDUSD",
+      "price": 0.9984,
+      "change_24h": -0.07,
+      "volume_24h": 25653734.0,
+      "high": 0.9991,
+      "low": 0.9984,
+      "amplitude": 0.1,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091961+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ENA",
+      "price": 0.1071,
+      "change_24h": -3.86,
+      "volume_24h": 12432673.0,
+      "high": 0.1117,
+      "low": 0.1043,
+      "amplitude": 7.1,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092380+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TAO",
+      "price": 243.2,
+      "change_24h": -1.9,
+      "volume_24h": 17663328.0,
+      "high": 249.3,
+      "low": 240.8,
+      "amplitude": 3.5,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092420+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TON",
+      "price": 1.358,
+      "change_24h": -1.09,
+      "volume_24h": 14485826.0,
+      "high": 1.381,
+      "low": 1.32,
+      "amplitude": 4.6,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092563+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PENGU",
+      "price": 0.008398,
+      "change_24h": -2.28,
+      "volume_24h": 24164867.0,
+      "high": 0.008767,
+      "low": 0.008102,
+      "amplitude": 8.2,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092892+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SPK",
+      "price": 0.050729,
+      "change_24h": 36.42,
+      "volume_24h": 117093358.0,
+      "high": 0.064332,
+      "low": 0.035992,
+      "amplitude": 78.7,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "巨量：>1亿"
+      ],
+      "risks": [
+        "加速：24h涨幅超30%，注意追高风险",
+        "高分歧：振幅>50%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.093368+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "XAUT",
+      "price": 4703.41,
+      "change_24h": -0.24,
+      "volume_24h": 12416882.0,
+      "high": 4733.19,
+      "low": 4656.0,
+      "amplitude": 1.7,
+      "score": 10,
+      "rating": "❌ 排除",
+      "reasons": [
+        "放量：>1000万"
+      ],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093953+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "XLM",
+      "price": 0.1769,
+      "change_24h": -1.01,
+      "volume_24h": 8874988.0,
+      "high": 0.1795,
+      "low": 0.174,
+      "amplitude": 3.2,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088445+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FET",
+      "price": 0.2079,
+      "change_24h": -2.3,
+      "volume_24h": 6867860.0,
+      "high": 0.213,
+      "low": 0.2038,
+      "amplitude": 4.5,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088640+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "DASH",
+      "price": 35.16,
+      "change_24h": -2.79,
+      "volume_24h": 8985062.0,
+      "high": 36.32,
+      "low": 34.52,
+      "amplitude": 5.2,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088685+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ENJ",
+      "price": 0.06063,
+      "change_24h": 4.52,
+      "volume_24h": 6756199.0,
+      "high": 0.06355,
+      "low": 0.05678,
+      "amplitude": 11.9,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088709+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FUN",
+      "price": 0.000342,
+      "change_24h": -24.34,
+      "volume_24h": 607905.0,
+      "high": 0.000465,
+      "low": 0.0003,
+      "amplitude": 55.0,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%",
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.088911+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "CHZ",
+      "price": 0.04693,
+      "change_24h": 0.19,
+      "volume_24h": 7878500.0,
+      "high": 0.04876,
+      "low": 0.04596,
+      "amplitude": 6.1,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088928+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HBAR",
+      "price": 0.09037,
+      "change_24h": -2.18,
+      "volume_24h": 7178267.0,
+      "high": 0.09248,
+      "low": 0.08971,
+      "amplitude": 3.1,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.088980+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "BCH",
+      "price": 456.7,
+      "change_24h": -1.53,
+      "volume_24h": 8698497.0,
+      "high": 465.4,
+      "low": 452.5,
+      "amplitude": 2.9,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.089031+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TROY",
+      "price": 6.9e-05,
+      "change_24h": -23.33,
+      "volume_24h": 144294.0,
+      "high": 0.000105,
+      "low": 6.1e-05,
+      "amplitude": 72.1,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%",
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.089048+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "FIRO",
+      "price": 0.3,
+      "change_24h": -25.0,
+      "volume_24h": 415626.0,
+      "high": 0.56,
+      "low": 0.255,
+      "amplitude": 119.6,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "极端分歧：振幅>100%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.090195+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "IDEX",
+      "price": 0.00199,
+      "change_24h": -30.18,
+      "volume_24h": 401259.0,
+      "high": 0.00291,
+      "low": 0.00199,
+      "amplitude": 46.2,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [
+        "健康波动：振幅20-50%"
+      ],
+      "risks": [
+        "加速：24h涨幅超30%，注意追高风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.090780+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "EPX",
+      "price": 1.94e-05,
+      "change_24h": -24.51,
+      "volume_24h": 320258.0,
+      "high": 2.86e-05,
+      "low": 1.7e-05,
+      "amplitude": 68.2,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "高分歧：振幅>50%",
+        "价格过低：流动性风险"
+      ],
+      "signal_time": "2026-04-23T19:33:05.091491+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "APT",
+      "price": 0.933,
+      "change_24h": -3.12,
+      "volume_24h": 7486580.0,
+      "high": 0.964,
+      "low": 0.922,
+      "amplitude": 4.6,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091585+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HOOK",
+      "price": 0.0078,
+      "change_24h": -15.22,
+      "volume_24h": 497457.0,
+      "high": 0.011,
+      "low": 0.0048,
+      "amplitude": 129.2,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [
+        "确认：涨幅15-30%，趋势初步形成"
+      ],
+      "risks": [
+        "极端分歧：振幅>100%"
+      ],
+      "signal_time": "2026-04-23T19:33:05.091622+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "SEI",
+      "price": 0.06114,
+      "change_24h": -2.41,
+      "volume_24h": 8496094.0,
+      "high": 0.06286,
+      "low": 0.06016,
+      "amplitude": 4.5,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.091982+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "POL",
+      "price": 0.0938,
+      "change_24h": -1.37,
+      "volume_24h": 5015269.0,
+      "high": 0.0968,
+      "low": 0.0918,
+      "amplitude": 5.4,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092654+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "VANA",
+      "price": 1.404,
+      "change_24h": -1.4,
+      "volume_24h": 5373380.0,
+      "high": 1.431,
+      "low": 1.374,
+      "amplitude": 4.1,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092864+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "TRUMP",
+      "price": 2.834,
+      "change_24h": -4.77,
+      "volume_24h": 9795402.0,
+      "high": 2.985,
+      "low": 2.807,
+      "amplitude": 6.3,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.092971+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "GUN",
+      "price": 0.01573,
+      "change_24h": -2.24,
+      "volume_24h": 6230693.0,
+      "high": 0.01708,
+      "low": 0.01506,
+      "amplitude": 13.4,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093164+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "STO",
+      "price": 0.0891,
+      "change_24h": 4.82,
+      "volume_24h": 6739208.0,
+      "high": 0.0934,
+      "low": 0.0817,
+      "amplitude": 14.3,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093250+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "PLUME",
+      "price": 0.01334,
+      "change_24h": 2.46,
+      "volume_24h": 7504044.0,
+      "high": 0.01388,
+      "low": 0.0122,
+      "amplitude": 13.8,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093464+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "HEMI",
+      "price": 0.00824,
+      "change_24h": 2.62,
+      "volume_24h": 5079431.0,
+      "high": 0.00885,
+      "low": 0.00764,
+      "amplitude": 15.8,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093587+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ASTER",
+      "price": 0.669,
+      "change_24h": -2.05,
+      "volume_24h": 8860195.0,
+      "high": 0.687,
+      "low": 0.663,
+      "amplitude": 3.6,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093647+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "GIGGLE",
+      "price": 35.71,
+      "change_24h": -3.15,
+      "volume_24h": 7496321.0,
+      "high": 37.59,
+      "low": 34.37,
+      "amplitude": 9.4,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093716+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    },
+    {
+      "symbol": "ZAMA",
+      "price": 0.02816,
+      "change_24h": -2.76,
+      "volume_24h": 8984751.0,
+      "high": 0.02981,
+      "low": 0.02697,
+      "amplitude": 10.5,
+      "score": 5,
+      "rating": "❌ 排除",
+      "reasons": [],
+      "risks": [],
+      "signal_time": "2026-04-23T19:33:05.093888+00:00",
+      "signal_timestamp": 1776972785,
+      "check_4h": null,
+      "check_8h": null
+    }
+  ]
+}

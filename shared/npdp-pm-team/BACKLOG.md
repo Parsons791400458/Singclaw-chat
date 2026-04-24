@@ -1,5 +1,5 @@
 # 📋 Product Backlog
-> **维护人**: 明哥(CPO) | **上次更新**: 2026-04-20 16:22 CST
+> **维护人**: 明哥(CPO) | **上次更新**: 2026-04-23 00:04 UTC（Sprint #1 Retro后Grooming）
 > **排序规则**: RICE评分降序 | **容量**: 38点/Sprint
 > **流程**: 任务完成后自动更新状态，每次更新标注时间和操作人
 
@@ -38,16 +38,16 @@
 ### [SC-001] SingClaw用户获取基建三件套
 - **类型**: Epic
 - **创新类型**: 平台式（衍生）
-- **Stage-Gate**: Development
+- **Stage-Gate**: Development → **Gate 1: Hold**（04-22）
 - **RICE**: R=8 I=3 C=100% E=2 → **12.0**
 - **负责人**: 小增(GTM) + 小度(埋点)
 - **验收标准**:
   - [ ] Google Search Console注册+sitemap提交 ← **需星哥操作(10min)**
   - [ ] Umami统计部署+核心事件埋点定义 ← **需星哥操作(5min)**
-  - [ ] 首条社交帖子发布+渠道策略文档 ← **待星哥确认文案**
-- **状态**: 🟡 阻塞（等待星哥）
+  - [x] 首条社交帖子发布+渠道策略文档 ← ✅ 已产出（`specs/gtm/sc-001-channel-strategy.md`）
+- **状态**: 🟡 Hold → 🟡 待PI-005绕行机制落地后执行Partial Done
 - **Story Points**: 5
-- **备注**: 已拖延12天。文案已出三个版本(Twitter/小红书/即刻)，待确认后发布
+- **备注**: Gate 1 Hold——2/3验收项需星哥操作。Sprint #1 Retro(04-23)决议：通过PI-005绕行机制处理。渠道策略文档已产出→标记Partial Done，GSC/Umami移入Icebox标注"需星哥操作(15min)"。
 
 ### [AS-001] A股v1.1止损规则分级升级
 - **类型**: Story
@@ -66,30 +66,30 @@
 ### [CR-001] 加密v6.0 Discovery用户研究
 - **类型**: Spike(技术调研)
 - **创新类型**: 衍生式
-- **Stage-Gate**: Discovery
+- **Stage-Gate**: Discovery → **✅ Gate 1: Go** → Scoping
 - **RICE**: R=5 I=2 C=50% E=2 → **2.5**
 - **负责人**: 小洞(用户研究)
 - **验收标准**:
-  - [ ] 策略交易工具竞品矩阵（≥10个产品）
-  - [ ] 目标用户画像(Persona)
-  - [ ] JTBD分析（用户雇佣交易工具完成什么任务）
-  - [ ] 机会评估报告
-- **状态**: Inbox
+  - [x] 策略交易工具竞品矩阵（≥10个产品） ✅ 12产品
+  - [x] 目标用户画像(Persona) ✅ 2个Persona
+  - [x] JTBD分析（用户雇佣交易工具完成什么任务） ✅
+  - [x] 机会评估报告 ✅ "全量扫描动量选币=蓝海"
+- **状态**: ✅ Gate 1: Go（04-22）→ 下一步 CR-002 Scoping
 - **Story Points**: 8
-- **备注**: v5.3双Key延误两周零实盘，需重新评估产品方向
+- **备注**: 核心发现：12个竞品无一提供全量扫描动量选币功能
 
 ### [SF-001] ShrimpFi Discovery用户研究+竞品分析
 - **类型**: Spike(技术调研)
 - **创新类型**: 突破式
-- **Stage-Gate**: Discovery
+- **Stage-Gate**: Discovery → **✅ Gate 1: Go** → Business Case
 - **RICE**: R=6 I=2 C=50% E=3 → **2.0**
 - **负责人**: 小洞(竞品分析)
 - **验收标准**:
-  - [ ] GameFi赛道竞品矩阵（≥15个项目，含Base链）
-  - [ ] 目标用户画像
-  - [ ] Kano需求分类（基本/期望/兴奋）
-  - [ ] TAM/SAM/SOM估算
-- **状态**: Inbox
+  - [x] GameFi赛道竞品矩阵（≥15个项目，含Base链） ✅ 20项目
+  - [x] 目标用户画像 ✅ 3个Persona（小闲/老韭/小白兔）
+  - [x] Kano需求分类（基本/期望/兴奋） ✅
+  - [x] TAM/SAM/SOM估算 ✅ TAM=$2.1B/SAM=$56.7M
+- **状态**: ✅ Gate 1: Go（04-22）→ 下一步 SF-002 商业论证
 - **Story Points**: 8
 
 ### [SC-002] SingClaw数据度量体系搭建
@@ -111,6 +111,43 @@
 
 ## 🟡 P1 — Sprint 2候选
 
+### [PI-004] Review超时自动通过机制 🔴 来自Sprint #1 Retro A1
+- **来源**: Sprint #1 Retro (04-23), 行动项A1
+- **内容**: Review超DDL 24h自动标记Pass，Reviewer可48h内申请Rollback；自动通过任务标记为"⚠️ Auto-Pass"
+- **类型**: 流程改进 | **Story Points**: 3
+- **负责人**: 小迭 | **DDL**: 2026-04-25
+- **验收标准**: (1) BACKLOG.md写入超时规则 (2) 48h Rollback机制 (3) Sprint Board标记Auto-Pass
+- **状态**: 🟡 In Progress
+
+### [PI-005] 外部依赖超时绕行机制 🔴 来自Sprint #1 Retro A2
+- **来源**: Sprint #1 Retro (04-23), 行动项A2
+- **内容**: 外部依赖超48h→任务降级"Partial Done"→阻塞项移入Icebox标注"需人工操作"→剩余工作独立新任务
+- **类型**: 流程改进 | **Story Points**: 3
+- **负责人**: 小迭 + 明哥(决策确认) | **DDL**: 2026-04-25
+- **验收标准**: 对SC-001执行绕行验证，确认状态变更
+- **状态**: 🟡 待启动
+
+### [PI-006] Idle容量自动重分配机制 🟡 来自Sprint #1 Retro A3
+- **来源**: Sprint #1 Retro (04-23), 行动项A3
+- **内容**: hourly巡检检测idle>12h→自动从Backlog P1拉取最高RICE任务→分配后通知星哥/明哥
+- **类型**: 流程改进 | **Story Points**: 3
+- **负责人**: 小迭 | **DDL**: 2026-04-27
+- **状态**: 🟡 待启动
+
+### [PI-007] Sprint报告降频+增量检测 🟡 来自Sprint #1 Retro A4
+- **来源**: Sprint #1 Retro (04-23), 行动项A4
+- **内容**: hourly报告改为增量模式（仅状态变化时输出完整文件），无变化仅记录日志，每日BJT 08:00输出摘要
+- **类型**: 流程改进 | **Story Points**: 2
+- **负责人**: 小迭 | **DDL**: 2026-04-25
+- **状态**: 🟡 待启动
+
+### [PI-008] Sprint停滞熔断协议 🟡 来自Sprint #1 Retro A5
+- **来源**: Sprint #1 Retro (04-23), 行动项A5
+- **内容**: 连续48h零推进→触发Sprint状态评审→输出三选项（提前收尾/调整目标/终止）→明哥12h内决策
+- **类型**: 流程改进 | **Story Points**: 3
+- **负责人**: 小迭 + 明哥(决策) | **DDL**: 2026-04-27
+- **状态**: 🟡 待启动
+
 ### [SC-003] SingClaw内容SEO长尾优化
 - **RICE**: R=8 I=1 C=80% E=2 → **3.2**
 - **负责人**: 小验(关键词PRD) + 小增(执行)
@@ -120,7 +157,7 @@
 ### [SF-002] ShrimpFi商业论证(Business Case)
 - **RICE**: R=6 I=2 C=50% E=3 → **2.0**
 - **负责人**: 小度(财务模型) + 小洞(概念测试)
-- **Stage-Gate**: Business Case（需Gate 1通过）
+- **Stage-Gate**: Business Case（✅ Gate 1通过）
 - **Story Points**: 8
 
 ### [AS-002] A股v1.1情绪周期完整回测报告
@@ -132,8 +169,25 @@
 ### [CR-002] 加密社交动量引擎Scoping
 - **RICE**: R=5 I=2 C=50% E=2 → **2.5**
 - **负责人**: 明哥(范围定义)
-- **Stage-Gate**: Scoping（需Gate 1通过）
+- **Stage-Gate**: Scoping（✅ Gate 1通过）
 - **Story Points**: 3
+
+### [PI-001] 原型验证Gate流程（流程改进）
+- **来源**: 学习会话 04-20 (Cat Wu文章启发)
+- **内容**: Stage-Gate中Spec后增加原型验证步骤
+- **类型**: 流程改进 | **Story Points**: 3
+- **状态**: 🟡 待确认是否加入Sprint 2
+
+### [PI-004] Review超时自动通过机制
+- **来源**: Sprint #1 Review 诊断（04-22）
+- **内容**: Review超DDL 24h自动标记Pass，Reviewer可事后追溯
+- **类型**: 流程改进 | **Story Points**: 3
+- **状态**: 🟡 建议Sprint 2优先实施
+
+### [IDEA-002] Sprint自动化助手
+- **来源**: 学习会话 04-20
+- **内容**: 任务idle自动分配、Review超时自动Pass
+- **状态**: 🟡 与PI-004合并评估
 
 ---
 
@@ -199,10 +253,10 @@
 - **内容**: 定期评测主流模型在各任务上能力，GTM引流
 - **状态**: 💡 想法团队分析中 → 详见 `shared/idea-team/analysis/`
 
-### [IDEA-002] Sprint自动化助手
+### [IDEA-002] Sprint自动化助手 → 已合并入PI-004+PI-006
 - **来源**: 学习会话 04-20
-- **内容**: 任务idle自动分配、Review超时自动Pass
-- **状态**: 💡 想法团队分析中
+- **内容**: 任务idle自动分配→拆入PI-006；Review超时自动Pass→拆入PI-004
+- **状态**: ✅ 已拆分并入Sprint #2 Backlog
 
 ### [IDEA-003] 产品灵感日报
 - **来源**: 学习会话 04-20

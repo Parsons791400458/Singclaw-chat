@@ -157,3 +157,30 @@
 - 对ShrimpFi启示：虾NFT应设计为**效用型**（产出能力/健康度可量化），参考Asset Health Score概念构建评分体系
 
 *更新人：小洞 | 2026-04-21 | 数据来源：CryptoSlam / BYDFi / themarketperiodical.com*
+
+---
+
+## 六、增量更新记录（2026-04-28 小洞周度监控）
+
+### 重大行业事件
+- **Chiliz扩张至Solana和Base（2026-04-28）**：Chiliz宣布将其70+粉丝代币通过OFT标准扩展到Solana和Base，为今夏FIFA世界杯做准备。这是Base链在体育/GameFi领域的重要信号验证。
+  - 对ShrimpFi的启示：Base链正在被主流项目认可为分发渠道，生态基础设施持续完善
+  - 风险：大项目涌入Base可能挤占小项目注意力
+
+### Base链生态信号
+- Base链TVL持续增长，Coinbase入口价值正在被验证
+- 链上NFT交易活跃度回升（CryptoSlam数据：全球NFT买家周环比+91.71%）
+- **竞争格局变化**：目前Base链上的休闲/Idle类游戏仍仅有FrenPet、GMonchain、Farverse、Sunflower Land，ShrimpFi「养虾Idle」细分赛道**依然无直接竞品**
+
+### 宏观市场环境
+- BTC跌破$77,000，市场进入谨慎阶段 → 对GameFi影响：新代币发行可能延期，用户更倾向免费F2P模式
+- Aave/Compound Kelp DAO $290M攻击事件，DeFi安全关注度上升 → GameFi经济模型需更强调安全性与透明度
+
+### 竞品动态
+| 项目 | 动态 | 对ShrimpFi影响 |
+|------|------|---------------|
+| **Pixels** | Ronin链上农场类龙头，DAU稳定在100-200K，品类最接近 | 🟡中 — 品类相似但链不同，ShrimpFi仍可打「Base原生+中文」差异 |
+| **FrenPet** | Base链宠物养成，DAU约1-2K，无中文 | 🟢低 — 品类不同，体量很小 |
+| **Notcoin/Hamster** | TON系Tap-to-Earn，留存差的问题持续 | 🟢低 — 赛道完全不同 |
+
+*更新人：小洞 | 2026-04-28 | 数据来源：CoinDesk / ChainPlay / CryptoSlam*

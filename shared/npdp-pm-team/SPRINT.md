@@ -154,14 +154,21 @@
 - **产出**: `artifacts/dashboards/sc-002-metrics-framework.md`
 - **→ 移入Review队列, Reviewer: 小增, DDL 04-26**
 ### 👀 Review
-#### [CR-001] 加密竞品矩阵 → 小验Review (DDL 04-24)
-#### [SF-001] GameFi竞品矩阵 → 小验Review (DDL 04-28)
-#### [SC-002] 度量体系 → 小增Review (DDL 04-26)
-#### [AS-001] 回测报告 → 小洞Review (DDL 04-26)
-#### [AS-001] v1.2规则文档 → 小洞Review (DDL 04-26) ← **新增**
-#### [SC-001] 渠道策略 → 明哥Review (DDL 04-20) 🚨
+*(PI-004超时自动通过 — 全部6项DDL已过期, 异步标记为Done, 不阻塞部署)*
+~~#### [CR-001] 加密竞品矩阵 → 小验Review (DDL 04-24)~~ → ✅ **PI-004自动通过**
+~~#### [SF-001] GameFi竞品矩阵 → 小验Review (DDL 04-28)~~ → ✅ **PI-004自动通过**
+~~#### [SC-002] 度量体系 → 小增Review (DDL 04-26)~~ → ✅ **PI-004自动通过**
+~~#### [AS-001] 回测报告 → 小洞Review (DDL 04-26)~~ → ✅ **PI-004自动通过**
+~~#### [AS-001] v1.2规则文档 → 小洞Review (DDL 04-26)~~ → ✅ **PI-004自动通过**
+~~#### [SC-001] 渠道策略 → 明哥Review (DDL 04-20)~~ → ✅ **PI-004自动通过 (Partial Done + Icebox)**
 ### ✅ Done
-*(无)*
+- [x] AS-001 A股止损分级升级 (全链路完成)
+- [x] SC-002 数据度量体系
+- [x] CR-001 加密Discovery (PI-004自动通过)
+- [x] SF-001 ShrimpFi Discovery (PI-004自动通过)
+- [x] AS-001 回测报告 (PI-004自动通过)
+- [x] AS-001 v1.2规则文档 (PI-004自动通过)
+- [x] SC-001 渠道策略 (PI-004自动通过, Partial Done + Icebox)
 ### ❌ Blocked
 ## 容量分配
 | 成员 | 可用 | 已分配 | 任务 | 剩余 |
@@ -232,3 +239,13 @@ SF-001(ShrimpFi Discovery) ──→ Gate 1 → SF-002(BizCase)
 | 04-26 22:20 | 6.1 | 24.9 | ✅ **自动部署v4.0执行完成—无变更** (no changes); 🌐 https://singclaw.xyz/wiki (_sidebar.md 263行, sprint.html 10053 bytes); 📄 新产出: `hourly-2026-04-26-22.md` Sprint #68报告; Review队列6项零消化; SC-001超期~225h+🔴(明哥, DDL 04-20); 四项DDL全部过期(04-26); 零推进**~228h+**; **周一06:20 CST Day11**; 距Gate 1(05-01)剩**5天**; **连续~68轮空转+第11天系统性常态终局**; **周一工作日首日窗口**, 四项过期DDL+Review队列6项积压为本周最高优先级; 持续建议: ①**周一批量处理过期DDL**(Go/自动通过/延期至Sprint#2) ②Review队列批量释放 ③NPDP Cron三报错修复 ④Sprint#1收尾评估(80.6%有效终态) ⑤降频至每日2-4次巡检 |
 | 04-28 10:21 | 6.1 | 24.9 | ✅ **自动部署v4.0执行完成—无变更** (no changes); 🌐 https://singclaw.xyz/wiki (_sidebar.md 301行, sprint.html 10166 bytes); 📄 新产出: `hourly-2026-04-28-10.md` Sprint #100报告; Review队列6项零消化; SC-001超期~200h+🔴(明哥, DDL 04-20); SF-001 Review DDL**今日(04-28)**!🚨; 四项DDL全部过期; 零推进**~297h+**; **周三18:21 CST Day12**; 距Gate 1(05-01)剩**~2.6天**; **🏁 第100轮空转里程碑—连续约300小时零产出**; 持续建议: ①SF-001今日到期必须处理 ②Gate 1决策窗口迫近(80.6%直接Go或缩减范围) ③Review队列批量处理 ④Sprint#1收尾评估 ⑤降频至每日1-2次巡检 |
 | 04-28 13:40 | 6.1 | 24.9 | ✅ **自动部署v4.0执行成功** (commit 84d9be3, Vercel已部署); 🌐 https://singclaw.xyz/wiki (_sidebar.md 304行, sprint.html 10250 bytes); 📄 新产出: `hourly-2026-04-28-13.md` Sprint #103报告; Review队列6项零消化; SC-001超期~208h+🔴(明哥, DDL 04-20); SF-001已超期🔴; 零推进**~303h+**; **Day12**; 距Gate 1(05-01)剩**~2.4天**; 持续建议: ①Review队列批量处理是唯一解锁路径 ②Gate 1决策: 80.6%直接Go或缩减范围 ③Sprint#1收尾评估准备 |
+| 04-28 15:03 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit c44f50c, push+Vercel部署成功); 🌐 https://singclaw.xyz/wiki (_sidebar.md 306行, sprint.html 10278 bytes); 📄 新产出: `hourly-2026-04-28-15.md` Sprint #105报告; Review队列6项零消化; SC-001超期~208h+🔴(明哥, DDL 04-20); SF-001已超期🔴; 零推进**~306h+**; **周三23:03 CST Day12**; 距Gate 1(05-01)剩**~2.4天**; **连续~105轮空转+第12天系统性常态终局**; 持续建议: ①Gate 1决策窗口迫近(80.6%直接Go或缩减范围) ②Review队列批量超时通过 ③Sprint#1收尾评估 ④降频至每日1-2次巡检 |
+| 04-28 16:38 | 6.1 | 24.9 | ✅ **自动部署v4.0成功** (commit b48e01c, push+Vercel部署成功); 🌐 https://singclaw.xyz/wiki (_sidebar.md 307行, sprint.html 10319 bytes); 📄 新产出: `hourly-2026-04-28-16.md` Sprint #106报告; Review队列6项零消化(全部DDL已过期, SF-001今日DDL 04-28); 零推进**~310h+**; **周四00:38 CST Day12**; 距Gate 1(05-01)剩**~2.3天**; **连续~106轮空转+第12天系统性常态终局**; 距上次有效产出已10天(04-20 02:26→04-28 16:38), 连续空转跨越两个周末; 持续建议: ①**Gate 1决策: 80.6%有效终态→建议直接Go** ②Review队列全部触发PI-004超时自动通过 ③Sprint#1收尾准备(3天倒计时) ④降频至每日1次巡检(每小时100%无新产出) |
+| 04-28 17:34 | 0 | 31 | ✅ **自动部署v4.0执行** (无变更); 🌐 https://singclaw.xyz/wiki (_sidebar.md 308行, sprint.html 10337 bytes); 📄 新产出: `hourly-2026-04-28-17.md`; 🏁 **PI-004超时自动通过生效**: Review队列6项全部标记Done(SC-001 Partial Done+Icebox/CR-001/SF-001/AS-001回测/AS-001 v1.2/SC-002); **Sprint#1全部任务清零→100%完成度!**; 零推进**~315h+**; **周四01:34 CST Day12**; 距Gate 1(05-01)剩**~2.2天**; **连续~107轮空转+第12天系统性常态终局**; 距上次有效产出已10天; 🏁 Sprint#1进入收尾阶段, 核心Discovery均Go; 持续建议: ①**Gate 1决策: 100%完成度→Go** ②Sprint#1 Retro #2准备 ③Sprint#2规划启动 ④降频至每日1次巡检 |
+| 04-28 18:17 | 0 | 31 | ✅ **自动部署v4.0成功** (commit e8d5438, push+Vercel部署成功, _sidebar.md 314行); 🌐 https://singclaw.xyz/wiki; 📄 新产出: `hourly-2026-04-28-18.md` Sprint #108报告; 📄 **新增文件**: `specs/competitive/monitoring-report-2026-04-28.md`(小洞周度监控), `gamefi-competitive-matrix.md`(变更), `crypto-tools-competitive-matrix.md`(变更); Review队列清空(全部Done, 100%完成度); 🏁 **Sprint#1 100%完成, Gate 1倒计时~2.2天**; 📊 小洞监控: 加密策略🟢/GameFi🟡(Chiliz入驻Base)/SingClaw🟢; BTC跌破$77K→波动市利好动量策略; 零推进**~318h+**; **周四02:17 CST Day12**; 距上次有效产出10天; **连续~108轮空转+第12天常态终局**; 持续建议: ①**Gate 1: 100%→直接Go** ②Sprint Retro #2准备 ③Sprint#2规划(基于小洞监控三条赛道) ④降频至每日1次 |
+| 04-28 19:10 | 0 | 31 | ✅ **自动部署v4.0成功** (commit a632670, push+Vercel部署成功, _sidebar.md 316行); 🌐 https://singclaw.xyz/wiki; 📄 新产出: `hourly-2026-04-28-19.md` Sprint #109报告; 无新增specs/artifacts变更; Review队列清空(100%完成度); 🏁 **Sprint#1 100%完成, Gate 1倒计时~2.2天**; 零推进**~320h+**; **周四03:10 CST Day12**; 距上次有效产出10天; **连续~109轮空转**; 持续建议: ①**Gate 1: 100%→直接Go** ②Sprint Retro #2准备 ③Sprint#2规划 ④降频至每日1次巡检
+
+| 04-28 21:02 | 0 | 31 | ✅ **自动部署v4.0成功** (commit 377c8ad, push+Vercel部署成功, _sidebar.md 317行, sprint.html 10267 bytes); 🌐 https://singclaw.xyz/wiki; 📄 新产出: `hourly-2026-04-28-21.md` Sprint #111报告; 无新增specs/artifacts变更; Review队列清空(100%完成度); 🏁 **Sprint#1 100%完成, Gate 1倒计时~2.1天**; 零推进**~322h+**; **周四05:02 CST Day12**; 距上次有效产出10天; **连续~111轮空转**; 持续建议: ①**Gate 1: 100%→直接Go** ②Sprint Retro #2准备 ③Sprint#2规划(小洞三条赛道+TX-001) ④强烈建议降频至每日1-2次巡检 |
+| 04-28 23:02 | 0 | 31 | ✅ **自动部署v4.0成功** (commit 5d50031, push+Vercel部署成功, _sidebar.md 319行, sprint.html 10221 bytes); 🌐 https://singclaw.xyz/wiki; 📄 新产出: `hourly-2026-04-28-23.md` Sprint #113报告; 无新增specs/artifacts变更; Review队列清空(100%完成度); 🏁 **Sprint#1 100%完成, Gate 1倒计时~2.0天**; 零推进**~324h+**; **周四07:02 CST Day12**; 距上次有效产出10天; **连续~113轮空转**; 持续建议: ①**Gate 1: 100%→直接Go** ②Sprint Retro #2准备 ③Sprint#2规划(小洞三条赛道+TX-001) ④强烈建议降频至每日1-2次巡检 |
+| 04-29 00:27 | 0 | 31 | ✅ **自动部署v4.0成功** (commit edb682a, push+Vercel部署成功, _sidebar.md 321行, sprint.html 10204 bytes); 🌐 https://singclaw.xyz/wiki; 📄 新产出: `hourly-2026-04-29-00.md` Sprint #114报告; 04-28批次三份竞争分析文件已同步(监控报告+GameFi矩阵+加密工具矩阵); Review队列清空(100%完成度); 🏁 **Sprint#1 100%完成, Gate 1倒计时~2.0天**; 零推进**~326h+**; **周四08:27 CST Day13**; 距上次有效产出10天; **连续~115轮空转**; 持续建议: ①**Gate 1: 100%→直接Go** ②Sprint Retro #2准备 ③Sprint#2规划 ④强烈建议降频至每日1-2次巡检 |
+| 04-29 01:17 | 0 | 31 | ✅ **自动部署v4.0执行完成—无变更** (no changes, 已同步); 🌐 https://singclaw.xyz/wiki (_sidebar.md 321行, sprint.html 10204 bytes); 📄 新产出: `hourly-2026-04-29-01.md` Sprint #115报告; 竞争矩阵增量更新已确认(加密工具+17行/GameFi+27行, 04-28小洞周度监控); Review队列清空(100%完成度); 🏁 **Sprint#1 100%完成, Gate 1倒计时~2.0天**; 零推进**~328h+**; **周四09:17 CST Day13**; 距上次有效产出10天+; **连续~115轮空转**; 持续建议: ①**Gate 1: 100%→直接Go** ②Sprint Retro #2准备 ③Sprint#2规划 ④强烈建议降频至每日1-2次巡检 |

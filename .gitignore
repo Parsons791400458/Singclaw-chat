@@ -1,0 +1,9 @@
+shared/config/.ssot-gate-heartbeat
+shared/config/.ssot-metrics-snapshot.json
+shared/config/.ssot-metrics-history.jsonl
+
+# Secrets — never tracked
+.env
+.env.*
+!.env.example
+.env*.local

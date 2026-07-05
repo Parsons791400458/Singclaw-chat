@@ -17,6 +17,24 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+<!-- WEB-TOOLS-STRATEGY-START -->
+### Web Tools Strategy (CRITICAL)
+
+**Before using web_search/web_fetch/browser/opencli, you MUST `read workspace/skills/web-tools-guide/SKILL.md`!**
+
+**Four tools, branch by scenario (NOT a hierarchy):**
+```
+web_search  -> No URL, need to search info         ─┐
+web_fetch   -> Known URL, static content            ─┤ Primary (pick by scenario)
+                                                     │
+opencli     -> Either fails? CLI structured access  ─┤ Fallback (try before browser)
+browser     -> All above fail? Full browser control ─┘ Last resort
+```
+
+**When web_search/web_fetch fail**: try `opencli` first (70+ sites, `opencli --help` to discover). Only escalate to `browser` when opencli also can't handle it.
+
+**When web_search errors: You MUST read the skill's "web_search failure handling" section first, guide user to configure search API. Only fall back after user explicitly refuses.**
+<!-- WEB-TOOLS-STRATEGY-END -->
 ## Memory
 
 You wake up fresh each session. These files are your continuity:

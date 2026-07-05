@@ -24,22 +24,31 @@ from fastapi import Request, HTTPException
 from fastapi.responses import JSONResponse, StreamingResponse
 
 # Provider chain (S9.1): primary + fallbacks
-# Format: (base_url, api_key, model_id, label)
-DEFAULT_PROVIDERS = [
-    ("https://api.minimaxi.com/v1", "sk-cp-TabsfUSfco3P4JMR2sfD7voaQR-HTAUEt6xQuw_ArzHtZc2P1X2Ga5QodgK1ShWGFeLjM5oi_XjsHY1p26H_OTR3XLvCjsSLkHCKA_e7cL2IA8dCGIccwLQ", "MiniMax-M3", "minimax-M3"),
-    ("https://api.deepseek.com/v1", "<REDACTED-KEY>", "deepseek-v4-pro", "deepseek-v4-pro"),
-]
-
+# SECURITY (R-04 P0 fix 2026-07-05): NEVER hardcode API keys.
+# Provider chain MUST come from env MVP_PROVIDER_CHAIN (JSON).
+# Why: prior DEFAULT_PROVIDERS leaked sk-* via GitGuardian detection.
+# Format: [{"base_url": ..., "api_key": ..., "model": ..., "label": ...}, ...]
 def _load_providers() -> list:
-    """Load provider chain from env MVP_PROVIDER_CHAIN (JSON) or default."""
+    """Load provider chain from env MVP_PROVIDER_CHAIN (JSON). Required."""
     raw = os.environ.get("MVP_PROVIDER_CHAIN", "").strip()
-    if raw:
-        try:
-            arr = json.loads(raw)
-            return [(p["base_url"], p["api_key"], p["model"], p.get("label", p["model"])) for p in arr]
-        except Exception:
-            pass
-    return DEFAULT_PROVIDERS
+    if not raw:
+        raise RuntimeError(
+            "MVP_PROVIDER_CHAIN env required (JSON array of providers). "
+            "Hardcoded fallback was REMOVED in 2026-07-05 R-04 fix. "
+            "See SECRETS_HANDBOOK.md §2."
+        )
+    try:
+        arr = json.loads(raw)
+    except json.JSONDecodeError as e:
+        raise RuntimeError(f"MVP_PROVIDER_CHAIN not valid JSON: {e}")
+    if not isinstance(arr, list) or not arr:
+        raise RuntimeError("MVP_PROVIDER_CHAIN must be a non-empty JSON array")
+    providers = []
+    for p in arr:
+        if not all(k in p for k in ("base_url", "api_key", "model")):
+            raise RuntimeError(f"Provider entry missing required keys: {p}")
+        providers.append((p["base_url"], p["api_key"], p["model"], p.get("label", p["model"])))
+    return providers
 
 PROVIDERS = _load_providers()
 FAST_TIMEOUT_S = int(os.environ.get("MVP_FAST_TIMEOUT_S", "60"))

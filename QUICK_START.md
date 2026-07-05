@@ -16,7 +16,13 @@ node --version  && pnpm --version && python3 --version && pm2 --version
 ```
 
 ## 2. 拿 secrets（联系 H Sing）
-**没 secrets 你跑不动**。详见 [SECRETS_HANDBOOK.md](./docs/SECRETS_HANDBOOK.md)。
+**没 secrets 你跑不动**。详见 [SECRETS_HANDBOOK.md](./docs/SECRETS_HANDBOOK.md) + **[SECRETS_ONBOARDING.md](./SECRETS_ONBOARDING.md)**。
+
+**怎么传**（按场景）：
+- 同内网: `scp` 或 `tar` 拷贝
+- 跨网: Age 加密 (推荐, 公网安全)
+- 临时: 1Password share link
+- ❌ 永远别用 Telegram/email/git 公开发送
 
 最小集（必须要有）：
 - `singclaw-dynamic/.env.local` ← FastAPI + Clerk + MVP code

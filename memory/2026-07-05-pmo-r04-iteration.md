@@ -6,8 +6,8 @@ H Sing 收到 **GitGuardian 邮件**：DeepSeek API Key 在 `Parsons791400458/Si
 ## 🔍 真根因
 我之前 R-04 filter-branch **只清了 `.env*`**。但漏了:
 - `SINGCLAW-MVP/adapter/fast.py` 里 hardcoded `DEFAULT_PROVIDERS` 列表 (line 29-30)
-- 含 DeepSeek API Key (`<REDACTED-KEY>`)
-- 含 MiniMax API Key (`sk-cp-TabsfUSfco3P4JMR...`)
+- 含 DeepSeek API Key (`<REDACTED-DEEPSEEK>`)
+- 含 MiniMax API Key (`<REDACTED-MINIMAX>...`)
 
 **GitGuardian 扫描源码找 sk- pattern** → 触发告警。
 
@@ -17,8 +17,8 @@ H Sing 收到 **GitGuardian 邮件**：DeepSeek API Key 在 `Parsons791400458/Si
 ```python
 # Before (HARDCODED):
 DEFAULT_PROVIDERS = [
-    ("https://api.minimaxi.com/v1", "sk-cp-TabsfUS...", "MiniMax-M3", ...),
-    ("https://api.deepseek.com/v1", "sk-f70d5e8a...", "deepseek-v4-pro", ...),
+    ("https://api.minimaxi.com/v1", "<REDACTED-MINIMAX>...", "MiniMax-M3", ...),
+    ("https://api.deepseek.com/v1", "<REDACTED-DEEPSEEK>...", "deepseek-v4-pro", ...),
 ]
 
 # After (env-required, no fallback):
@@ -74,12 +74,12 @@ curl -X POST https://app.singclaw.xyz/v1/mvp/chat/fast \
 ## ⚠️ H Sing 仍需做 (紧急)
 
 ### R-05 keys revoke
-**DeepSeek API Key `<REDACTED-KEY>`** 是公网已知泄漏，必须 revoke：
+**DeepSeek API Key `<REDACTED-DEEPSEEK>`** 是公网已知泄漏，必须 revoke：
 1. 登录 https://platform.deepseek.com/
 2. API Keys → 找到这把 key → Delete
 3. 创建新 key → 更新 `SINGCLAW-MVP/adapter/.env` 中的 MVP_PROVIDER_CHAIN
 
-**MiniMax API Key `sk-cp-TabsfUSfco3P4JMR2sfD7voaQR...`** 同理:
+**MiniMax API Key `<REDACTED-MINIMAX>...`** 同理:
 1. 登录 MiniMax 控制台
 2. API Keys → Delete + Create new
 3. 更新 env
